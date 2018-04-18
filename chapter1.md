@@ -7,3 +7,5 @@
 本檔案名稱為 chapter1.md, 使用的為 gitbook 的 legacy 版本, 因為不希望在新版的模式下, 採電話簡訊確認身分. 在 gitbook settings 中與 github 中的特定倉儲同步之後, 就可以直接在 github 倉儲中管理 gitbook 的對應版本, 並在以下輸入 iframe html 程式碼, 可以嵌入 video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SRzrRwby3rk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+github 與 gitbook 兩端資料同步之後, 必須由 gitbook 控制 publish 與否.
