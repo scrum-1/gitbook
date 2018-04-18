@@ -5,8 +5,15 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VI-d1C9MkOU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
 但是, 由於上述影片只有在 html 模式下才可檢視, 因此建議除了 iframe 外, 也要提供影片連結: https://www.youtube.com/watch?v=VI-d1C9MkOU, 讓使用者可以透過 pdf 檔案時, 連結到對應的影片.
 
 # 如何利用 Pandoc 與 MikTeX 轉換檔案
 
 https://pandoc.org/ 是一個能夠將 Markdown 檔案轉換為 html 與 LaTeX 格式的工具, 而 LaTeX 格式又可以透過 https://miktex.org/ 轉為 pdf 檔案, 因此目前 https://github.com/scrum-1/gitbook 倉儲中的所有 .md 檔案, 可以在 Pandoc 與 MikTeX 的配合下, 完成 Gitbook 所提供的服務.
+
+# Pyslvs 平面機構模擬與合成套件
+
+https://github.com/KmolYuan/Pyslvs-PyQt5 是一套由國立虎尾科技大學機械設計工程系自行開發的平面多連桿機構的模擬與合成套件, 可以用於 KMOLab 所開列的課程中.
+
+[pyslvs-18.4.0.mscv1900-amd64.7z](pyslvs-18.4.0.mscv1900-amd64.7z) 版本下載.
