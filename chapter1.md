@@ -4,4 +4,6 @@
 
 此外, 在概念與知識設計方法 \(Concept-Knowledge Design Method\) 的引導下, 要求各組學員整理解決此一任務過程所擁有的解題概念與知識, 然後透過實習與 CK 理論的交互演化下進行任務解題.
 
+本檔案名稱為 chapter1.md, 使用的為 gitbook 的 legacy 版本, 因為不希望在新版的模式下, 採電話簡訊確認身分. 在 gitbook settings 中與 github 中的特定倉儲同步之後, 就可以直接在 github 倉儲中管理 gitbook 的對應版本, 並在以下輸入 iframe html 程式碼, 可以嵌入 video.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SRzrRwby3rk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
