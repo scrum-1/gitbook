@@ -9,3 +9,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SRzrRwby3rk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 github 與 gitbook 兩端資料同步之後, 必須由 gitbook 控制 publish 與否.
+
+處理步驟:
+
+1. gitbook 與 github 倉儲設為同步
+2. 可以分別在兩端修改內容
+3. 同步之後, 由 gitbook 端 publish
