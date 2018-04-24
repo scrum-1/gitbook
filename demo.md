@@ -28,10 +28,16 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
     在文章中加入數學符號式, 當 $$a \ne 0$$, 一元二次方程式 $$(ax^2 + bx + c = 0)$$ 有兩組解, 可以寫成: 
 
     $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+    
+注意: 在 Gitbook 第一版中使用 mathjax plugin, inline 必須使用兩個 dollar signs 才能正確顯示, 而在 pandoc 與 LaTeX 或原始版本的 mathjax, inline 只需要使用一個 dollar sign.
 
 # 如何利用 Pandoc 與 MikTeX 轉換檔案
 
 https://pandoc.org/ 是一個能夠將 Markdown 檔案轉換為 html 與 LaTeX 格式的工具, 而 LaTeX 格式又可以透過 https://miktex.org/ 轉為 pdf 檔案, 因此目前 https://github.com/scrum-1/gitbook 倉儲中的所有 .md 檔案, 可以在 Pandoc 與 MikTeX 的配合下, 完成 Gitbook 所提供的服務.
+
+當 kmol_level2 納入 pandoc 與 MikTeX 工具之後, 可以使用下列指令, 將 md 檔案轉換為 pdf 檔案:
+
+    pandoc README.md chapter1.md cd.md cp.md lua-programming.md wcms.md demo.md -o report.pdf --pdf-engine=xelatex -V CJKmainfont="SimSun" -V documentclass=report -V lang=zh-cmn -N --toc
 
 # Pyslvs 平面機構模擬與合成套件
 
