@@ -25,7 +25,8 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 原始內容為:
 
-    在文章中加入數學符號式, 當 $$a \ne 0$$, 一元二次方程式 $$(ax^2 + bx + c = 0)$$ 有兩組解, 可以寫成: 
+    在文章中加入數學符號式, 當 $$a \ne 0$$, 一元二次方程式 $$(ax^2 + bx + c = 0)$$ 
+    有兩組解, 可以寫成: 
 
     $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
     
@@ -37,7 +38,7 @@ https://pandoc.org/ 是一個能夠將 Markdown 檔案轉換為 html 與 LaTeX �
 
 當 kmol_level2 納入 pandoc 與 MikTeX 工具之後, 可以使用下列指令, 將 md 檔案轉換為 pdf 檔案:
 
-    pandoc README.md chapter1.md cd.md cp.md lua-programming.md wcms.md demo.md -o report.pdf --pdf-engine=xelatex -V CJKmainfont="SimSun" -V documentclass=report -V lang=zh-cmn -N --toc
+pandoc README.md chapter1.md cd.md cp.md lua-programming.md wcms.md demo.md -o report.pdf --pdf-engine=xelatex -V CJKmainfont="SimSun" -V documentclass=report -V lang=zh-cmn -N --toc
 
 # Pyslvs 平面機構模擬與合成套件
 
