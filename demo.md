@@ -8,6 +8,12 @@
 
 但是, 由於上述影片只有在 html 模式下才可檢視, 因此建議除了 iframe 外, 也要提供影片連結: https://www.youtube.com/watch?v=VI-d1C9MkOU, 讓使用者可以透過 pdf 檔案時, 連結到對應的影片.
 
+# 如何輸入數學方程式
+
+在文章中加入數學符號式, 當 $a \ne 0$, 一元二次方程式 (ax^2 + bx + c = 0) 有兩組解, 可以寫成: 
+
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
 # 如何利用 Pandoc 與 MikTeX 轉換檔案
 
 https://pandoc.org/ 是一個能夠將 Markdown 檔案轉換為 html 與 LaTeX 格式的工具, 而 LaTeX 格式又可以透過 https://miktex.org/ 轉為 pdf 檔案, 因此目前 https://github.com/scrum-1/gitbook 倉儲中的所有 .md 檔案, 可以在 Pandoc 與 MikTeX 的配合下, 完成 Gitbook 所提供的服務.
