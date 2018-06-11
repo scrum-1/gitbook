@@ -45,3 +45,7 @@ pandoc README.md chapter1.md cd.md cp.md lua-programming.md wcms.md demo.md -o r
 https://github.com/KmolYuan/Pyslvs-PyQt5 是一套由國立虎尾科技大學機械設計工程系自行開發的平面多連桿機構的模擬與合成套件, 可以用於 KMOLab 所開列的課程中.
 
 [pyslvs-18.4.0.mscv1900-amd64.7z](pyslvs-18.4.0.mscv1900-amd64.7z) 版本下載.
+
+# Gitbook 舊版 Documentation
+
+https://github.com/GitbookIO/documentation
