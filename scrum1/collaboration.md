@@ -1,3 +1,7 @@
+# 協同著作規劃
+
+將各組組長設為 scrum-1/gitbook 倉儲的協同者, 各組組員 Fork scrum-1/gitbook 後更改內容後, 以 pull request 由組長合併至 scrum-1/gitbook, 各組組長則可以直接在 web 上修改 scrum-1/gitbook 的內容
+
 # Chapters and Subchapters
 
 GitBook uses a `SUMMARY.md` file to define the structure of chapters and subchapters of the book. The `SUMMARY.md` file is  used to generate the book's table of contents.
