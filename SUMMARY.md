@@ -14,5 +14,6 @@
     * [協同編輯說明](scrum1/collaboration.md)
 * [二甲](2a_readme.md)
     * [ag1](ag1/readme.md)
+        * [v-rep](ag1/v-rep/readme.md)
 * [二乙](2b_readme.md)
     * [bg1](bg1/readme.md)
