@@ -20,12 +20,14 @@
     * [ag5](ag5/readme.md)
     * [ag6](ag6/readme.md)
         * [v-rep](ag6/v-rep/readme.md)
+    * [ag7](ag7/readme.md)
+        * [v-rep](ag7/v-rep/readme.md)
     * [ag9](ag9/readme.md)
-      * [MARBLE MACHINE](ag9/MARBLE MACHINE/readme.md)
-      * [COURSE MISSION](ag9/COURSE MISSION/readme.md)
-      * [V-REP](ag9/V-REP/readme.md)
-      * [GEAR](ag9/GEAR/readme.md)
-      * [COLLABORATIVE WORK](ag9/COLLABORATIVE WORK/readme.md)
+      * [MARBLE MACHINE]
+      * [COURSE MISSION]
+      * [V-REP]
+      * [GEAR]
+      * [COLLABORATIVE WORK]
     * [ag12](ag12/readme.md)
       * [v-rep](ag12/v-rep/readme.md)
 * [二乙](2b_readme.md)
