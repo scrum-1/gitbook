@@ -44,7 +44,7 @@
         * [Ball lifter (Double six bar linkage)](ag7/Ball%20lifter%20-Double%20six%20bar%20linkage/readme.md)
         * [Ball lifter (Triple six bar linkage)](ag7/Ball%20lifter%20-Triple%20six%20bar%20linkage/readme.md)
     * [ag8](ag8/readme.md)
-        * [v-rep](ag8/V-rep/V-rep/readme.md)
+        * [v-rep](ag8/V-rep/Double six bar linkage/readme.md)
     * [ag9](ag9/readme.md)
         * MARBLE MACHINE
             * [Model](ag9/MARBLE MACHINE/Model.md)
