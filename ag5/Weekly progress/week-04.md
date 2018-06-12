@@ -5,9 +5,9 @@
 
 ## 工作進度:
 
-#### 這禮拜學習lua語言基礎知識，利用[http://mde.tw/vecp2018/lua/SchoolProject/](/ http://mde.tw/vecp2018/lua/SchoolProject/)來進行Lua語法練習，這禮拜去阿里山賞櫻所以進度稍稍停緩但持續進行中，利用v-rep中的實例來更進一步的了解lua如何在v-rep中的地位與關係，並且思考是否可與行走機構跟鋼球運動有所關聯。
+#### 這禮拜學習lua語言基礎知識，利用[http://mde.tw/vecp2018/lua/SchoolProject/](/ http://mde.tw/vecp2018/lua/SchoolProject/) 來進行Lua語法練習，這禮拜去阿里山賞櫻所以進度稍稍停緩但持續進行中，利用v-rep中的實例來更進一步的了解lua如何在v-rep中的地位與關係，並且思考是否可與行走機構跟鋼球運動有所關聯。
 
-#### ![](/assets/IMG_0432.jpg)
+#### ![](../assets/IMG_0432.jpg)
 
 ## [第四週影片](https://www.youtube.com/watch?v=ey3CA7V_HmU)
 
