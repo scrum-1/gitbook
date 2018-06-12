@@ -40,9 +40,10 @@
         * [12W](ag6/mei-zhou-jin-du/11w-sui-tang-ce-yan/12w.md)
     * [ag7](ag7/readme.md)
         * [v-rep](ag7/v-rep/readme.md)
-        * [v-rep](ag7/v-rep/readme.md)
         * [components draw](/ag7/components%20draw/readme.md)
-        * [v-rep](ag7/v-rep/readme.md)
+        * [Ball lifter (Double six bar linkage)](ag7/Ball%20lifter%20-Double%20six%20bar%20linkage/readme.md)
+        * [Ball lifter (Triple six bar linkage)](ag7/Ball%20lifter%20-Triple%20six%20bar%20linkage/readme.md)
+    * [ag8](ag8/readme.md)
     * [ag9](ag9/readme.md)
         * MARBLE MACHINE
         * [Model](ag9/MARBLE MACHINE/Model.md)
