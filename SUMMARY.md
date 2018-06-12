@@ -30,6 +30,8 @@
       * [V-REP]
       * [GEAR]
       * [COLLABORATIVE WORK]
+    * [ag10](ag10/readme.md)
+      * [gear]
     * [ag11](ag11/readme.md)
       * [v-rep](ag11/v-rep/readme.md)
     * [ag12](ag12/readme.md)
