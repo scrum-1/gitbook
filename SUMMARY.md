@@ -20,7 +20,7 @@
     * [ag5](ag5/readme.md)
     * [ag6](ag6/readme.md)
         * [v-rep](ag6/v-rep/readme.md)
-        * [鋼球循環運動機構報告](gang-qiu-xun-huan-yun-dong-ji-gou-bao-gao/README.md)
+        * [鋼球循環運動機構報告](ag6/gang-qiu-xun-huan-yun-dong-ji-gou-bao-gao/README.md)
             * [機構\(一\)](gang-qiu-xun-huan-yun-dong-ji-gou-bao-gao/ji-gou-yi.md)
             * [機構\(二\)](gang-qiu-xun-huan-yun-dong-ji-gou-bao-gao/ji-gou-er.md)
             * [機構\(三\)](gang-qiu-xun-huan-yun-dong-ji-gou-bao-gao/ji-gou-san.md)
