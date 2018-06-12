@@ -1,13 +1,12 @@
 ## 鋼球運動系統
 
-
-![Model](ag9/MARBLE-MACHINE/Model.jpg)
+![Model](Model.jpg)
 
 
 
 ## 鋼球軌道三視圖
 
-![Model](ag9/MARBLE-MACHINE/Model-1.jpg)
+![Model](Model-1.jpg)
 
 [零件檔案連結](https://github.com/s40523121/cd2018/tree/blog/STL/Midterm)
 
