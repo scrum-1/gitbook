@@ -1,1 +1,1 @@
-#  solidwork.stl
+# .stl
