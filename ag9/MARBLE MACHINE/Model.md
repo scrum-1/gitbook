@@ -8,9 +8,10 @@
 
 ![Model](../Model-1.jpg)
 
-[零件檔案連結](https://github.com/s40523121/cd2018/tree/blog/STL/Midterm)
+[零件檔案連結](https://github.com/s40523121/cd2018/tree/blog/STL/Midterm)<br/>
 [V-REP模擬檔連結](https://github.com/s40523121/cd2018/tree/blog/Vrep/Midterm)
 
+---
 
 此圖檔主要是利用旋轉軸帶動飛輪來使鋼球達到用送效果，飛輪的每個圓孔都是使用錐形孔，
 使鋼球能夠順利的從孔中出來，而不會卡在洞內，飛輪左側有個環形鋼條，主要是避免鋼球
