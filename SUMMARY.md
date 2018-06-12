@@ -15,5 +15,7 @@
 * [二甲](2a_readme.md)
     * [ag1](ag1/readme.md)
         * [v-rep](ag1/v-rep/readme.md)
+    * [ag6](ag6/readme.md)
+        * [v-rep](ag6/v-rep/readme.md)
 * [二乙](2b_readme.md)
     * [bg1](bg1/readme.md)
