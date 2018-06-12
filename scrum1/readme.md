@@ -1,4 +1,4 @@
-# GitBook Documentation
+# GitBook Documentation1
 
 This book contains the entire documentation for **GitBook** (gitbook.com and format).
 
