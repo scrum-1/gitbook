@@ -2,6 +2,6 @@
 
 組員:40523105 40523106 40523107
 
-gitbook:https://ball.gitbooks.io/cd2018/content/
+<a href = "https://ball.gitbooks.io/cd2018/content">gitbook</a>
 
-cd2018倉儲:https://github.com/s40523107/cd2018
+<a href = "https://github.com/s40523107/cd2018">cd2018</a>
