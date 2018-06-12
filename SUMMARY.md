@@ -43,12 +43,22 @@
         * [components draw](/ag7/components%20draw/readme.md)
         * [Ball lifter (Double six bar linkage)](ag7/Ball%20lifter%20-Double%20six%20bar%20linkage/readme.md)
         * [Ball lifter (Triple six bar linkage)](ag7/Ball%20lifter%20-Triple%20six%20bar%20linkage/readme.md)
+        * [W1](ag7/W1.md)
+        * [W3](ag7/W3.md)
+        * [W4](ag7/W4.md)
+        * [W5](ag7/W5.md)
+        * [W7](ag7/W7.md)
+        * [W9_期中報告](ag7/W9_期中報告.md)
+        * [W10](ag7/W10.md)
+        * [W11](ag7/W11.md)
+        * [W13](ag7/W13.md)
+        * [Lua基本邏輯符號教學](ag7/Lua.md)
     * [ag8](ag8/readme.md)
         * [Double six bar linkage](ag8/V-rep/V-rep/readme.md)
     * [ag9](ag9/readme.md)
         * MARBLE MACHINE
-        * [Model](ag9/MARBLE MACHINE/Model.md)
-        * [Simulation](ag9/MARBLE MACHINE/Simulation.md)
+            * [Model](ag9/MARBLE-MACHINE/Model.md)
+            * [Simulation](ag9/MARBLE-MACHINE/Simulation.md)
         * COURSE MISSION
         * V-REP
         * GEAR
@@ -57,6 +67,7 @@
       * [gear](ag10/gear/readme.md)
     * [ag11](ag11/readme.md)
       * [v-rep](ag11/v-rep/readme.md)
+      * [W10](ag7/W10.md)
     * [ag12](ag12/readme.md)
       * [v-rep](ag12/v-rep/readme.md)
     * [ag14](ag14/readme.md)
