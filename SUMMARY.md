@@ -40,17 +40,14 @@
             * [12W](ag6/mei-zhou-jin-du/11w-sui-tang-ce-yan/12w.md)
     * [ag7](ag7/readme.md)
         * [v-rep](ag7/v-rep/readme.md)
-        * [components draw](ag7/components draw/readme.md)
-        * [v-rep](ag7/v-rep/readme.md)
-        * [v-rep](ag7/v-rep/readme.md)
     * [ag9](ag9/readme.md)
-      * MARBLE MACHINE
-      * [Model](ag9/MARBLE MACHINE/Model.md)
-      * [Simulation](ag9/MARBLE MACHINE/Simulation.md)
-      * COURSE MISSION
-      * V-REP
-      * GEAR
-      * COLLABORATIVE WORK
+        * MARBLE MACHINE
+        * [Model](ag9/MARBLE MACHINE/Model.md)
+        * [Simulation](ag9/MARBLE MACHINE/Simulation.md)
+        * COURSE MISSION
+        * V-REP
+        * GEAR
+        * COLLABORATIVE WORK
     * [ag10](ag10/readme.md)
       * [gear](ag10/gear/readme.md)
     * [ag11](ag11/readme.md)
