@@ -1,17 +1,3 @@
-# 實習任務
-
-本週起, 每一分組成員必須在各自的分組倉儲中至少提供一則 mp4 簡報或操作流程示範影片, 說明該週的工作內容、進度與心得報告, 並且將紙本筆記的內容整理到各組的 gitbook 線上報告中.
-
-# 協同實習題目
-
-## 為何選擇 Python 與 Lua 程式語言?
-
-Python 是目前機器學習與人工智慧應用最熱門的程式語言之一,[Why](https://www.quora.com/Why-is-Python-considered-a-good-language-for-AI-and-Machine-Learning)?
-
-至於 Lua 則是 V-rep 內建的 scripting 程式語言, 充分了解 Lua 的應用將有助於機械設計工程師在 V-rep 搭建機電資整合系統模型.
-
----
-
 Lua 是一種輕量小巧的腳本語言，用標準C語言編寫並以源代碼形式開放， 其設計目的是為了嵌入應用程序中，從而為應用程序提供靈活的擴展和定制功能。
 
 Lua 是巴西里約熱內盧天主教大學（Pontifical Catholic University of Rio de Janeiro）裡的一個研究小組，由Roberto Ierusalimschy、Waldemar Celes 和Luiz Henrique de Figueiredo所組成並於1993年開發。
