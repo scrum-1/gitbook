@@ -67,6 +67,7 @@
       * [gear](ag10/gear/readme.md)
     * [ag11](ag11/readme.md)
       * [v-rep](ag11/v-rep/readme.md)
+      * [W10](ag7/W10.md)
     * [ag12](ag12/readme.md)
       * [v-rep](ag12/v-rep/readme.md)
     * [ag14](ag14/readme.md)
