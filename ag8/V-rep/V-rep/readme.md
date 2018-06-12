@@ -1,1 +1,0 @@
-#  solidwork.stl
