@@ -44,13 +44,13 @@
         * [Ball lifter (Double six bar linkage)](ag7/Ball%20lifter%20-Double%20six%20bar%20linkage/readme.md)
         * [Ball lifter (Triple six bar linkage)](ag7/Ball%20lifter%20-Triple%20six%20bar%20linkage/readme.md)
     * [ag9](ag9/readme.md)
-        * MARBLE MACHINE
+        ### MARBLE MACHINE
         * [Model](ag9/MARBLE MACHINE/Model.md)
         * [Simulation](ag9/MARBLE MACHINE/Simulation.md)
-        * COURSE MISSION
-        * V-REP
-        * GEAR
-        * COLLABORATIVE WORK
+        ### COURSE MISSION
+        ### V-REP
+        ### GEAR
+        ### COLLABORATIVE WORK
     * [ag10](ag10/readme.md)
       * [gear](ag10/gear/readme.md)
     * [ag11](ag11/readme.md)
