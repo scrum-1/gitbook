@@ -25,13 +25,13 @@
     * [ag7](ag7/readme.md)
         * [v-rep](ag7/v-rep/readme.md)
     * [ag9](ag9/readme.md)
-      * [MARBLE MACHINE]
+      * MARBLE MACHINE
         * [Model](ag9/MARBLE MACHINE/Model.md)
         * [Simulation](ag9/MARBLE MACHINE/Simulation.md)
-      * [COURSE MISSION](ag9/COURSE MISSION)
-      * [V-REP](ag9/COURSE MISSION)
-      * [GEAR](ag9/GEAR)
-      * [COLLABORATIVE WORK](ag9/COLLABORATIVE WORK)
+      * COURSE MISSION
+      * V-REP
+      * GEAR
+      * COLLABORATIVE WORK
     * [ag10](ag10/readme.md)
       * [gear]
     * [ag11](ag11/readme.md)
