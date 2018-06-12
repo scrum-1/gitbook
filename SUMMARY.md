@@ -46,8 +46,8 @@
     * [ag8](ag8/readme.md)
     * [ag9](ag9/readme.md)
         * MARBLE MACHINE
-            * [Model](ag9/MARBLE MACHINE/Model.md)
-            * [Simulation](ag9/MARBLE MACHINE/Simulation.md)
+        * [Model](ag9/MARBLE MACHINE/Model.md)
+        * [Simulation](ag9/MARBLE MACHINE/Simulation.md)
         * COURSE MISSION
         * V-REP
         * GEAR
