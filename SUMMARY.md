@@ -104,7 +104,7 @@
       * [w8](bg9/week8.md)
       * [期中自評](bg9/zi-ping-cheng-ji.md)
       * [w10](bg9/W10/week10.md)
-      * [w11](bg9/wee11.md)
+      * [w11](bg9/week11.md)
       * [w14](bg9/week14.md)
       * [w15](bg9/week15.md)
       
