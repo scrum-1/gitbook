@@ -108,7 +108,7 @@
        * [w5](https://s40523203.gitbooks.io/2b-group2/content/week5.html)
        * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
        * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
-       * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html
+       * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
        
     * [bg4](bg4/readme.md)
         * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
