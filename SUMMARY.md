@@ -94,6 +94,11 @@
         * [繪製靜態組合正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
         * [繪製組合轉動正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
      * [bg8](bg8/readme.md)
+       * [w1](https://s40523220.gitbooks.io/cd2018/content/w1.html)
+     * [bg5](bg5/readme.md)
+       * [w1](bg5/Weeklyprogress/w1.md)
+        
+        
         
 
       
