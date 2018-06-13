@@ -125,6 +125,8 @@
         * [繪製靜態組合正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
         * [繪製組合轉動正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
         
+    * [bg6](bg6/readme.md)
+    
     * [bg7](https://github.com/scrum-1/gitbook/blob/master/bg7/readme.md)
       * [w4](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week4.html)
       * [w5](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week5.html)
@@ -188,8 +190,7 @@
     
     
     * [bg14](bg14eadme.md)
-      
-        
+
         
         
 
