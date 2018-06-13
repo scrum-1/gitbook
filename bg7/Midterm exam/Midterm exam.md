@@ -20,7 +20,9 @@
 
 ### 總時程=16+6.2=22.2秒
 
-### ![](/assets/7777777.png)\[V-rep模擬\]
+### ![](https://s40523210.gitbooks.io/g7_gitbook/content/assets/7777777.png)
+
+# [V-rep模擬]
 
 ### 主軸轉速為1000mm/sec
 
@@ -38,7 +40,7 @@
 
 ### A: [Onshape零組件](https://cad.onshape.com/documents/1ffbf9de057f1ec0de0ea937/w/8fc56351c8bcdb5c20322271/e/766e3fe1c66fdc5053d3b9bd)
 
-### 本體:![](/assets/軌道一.png)螺旋馬達:![](/assets/軌道2.png)
+### 本體:![](https://s40523210.gitbooks.io/g7_gitbook/content/assets/%E8%BB%8C%E9%81%93%E4%B8%80.png)螺旋馬達:![](https://s40523210.gitbooks.io/g7_gitbook/content/assets/%E8%BB%8C%E9%81%932.png)
 
 ##
 
