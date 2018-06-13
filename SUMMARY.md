@@ -99,6 +99,17 @@
       * [w11](bg1/w11/w11.md)
       * [w14](bg1/w14/w14.md)
       * [w15](bg1/w15/w15.md)
+      
+     * [bg2](bg2/readme.md)
+       * [w1](https://s40523203.gitbooks.io/2b-group2/content/chapter1.html)
+       * [w2](https://s40523203.gitbooks.io/2b-group2/content/week-2.html)
+       * [w3](https://s40523203.gitbooks.io/2b-group2/content/week-3.html)
+       * [w4](https://s40523203.gitbooks.io/2b-group2/content/week-4.html)
+       * [w5](https://s40523203.gitbooks.io/2b-group2/content/week5.html)
+       * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
+       * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
+       * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
+       
     * [bg4](bg4/readme.md)
         * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
         * [40523219林韋翔](https://s40523219.gitbooks.io/cd2018_bp4/content/40523219-lin-wei-xiang.html)
