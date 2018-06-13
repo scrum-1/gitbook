@@ -126,7 +126,13 @@
         * [繪製組合轉動正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
         
     * [bg6](bg6/readme.md)
-    
+      * [w1](https://s40523226.gitbooks.io/ball-movement-system/content/w1.html)
+      * [w2](https://s40523226.gitbooks.io/ball-movement-system/content/w2.html)
+      * [w4](https://s40523226.gitbooks.io/ball-movement-system/content/w4.html)
+      * [w5](https://s40523226.gitbooks.io/ball-movement-system/content/w5.html)
+      * [w7](https://s40523226.gitbooks.io/ball-movement-system/content/w7.html)
+      * [w10](https://s40523226.gitbooks.io/ball-movement-system/content/w10-11.html)
+      * [w11](https://s40523226.gitbooks.io/ball-movement-system/content/w12.html)
     * [bg7](https://github.com/scrum-1/gitbook/blob/master/bg7/readme.md)
       * [w4](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week4.html)
       * [w5](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week5.html)
