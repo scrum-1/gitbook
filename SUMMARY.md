@@ -96,7 +96,7 @@
         * [3](bg1/w9/a3.md)
         * [4](bg1/w9/a4.md)
       * [w10](bg1/w10/w10.md)
-      * [W11](bg1/w11/W11.md)
+      * [w11](bg1/w11/w11.md)
       * [w14](bg1/w14/w14.md)
       * [w15](bg1/w15/w15.md)
     * [bg4](bg4/readme.md)
