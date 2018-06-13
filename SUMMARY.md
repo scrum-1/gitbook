@@ -77,6 +77,7 @@
       * [v-rep](ag14/v-rep/readme.md)
 * [二乙](2b_readme.md)
     * [bg1](bg1/readme.md)
+      * [w10](bg1/w10/w10.md)
       * [w15](bg1/w15/w15.md)
     * [bg4](bg4/readme.md)
         * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
