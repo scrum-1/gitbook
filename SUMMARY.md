@@ -21,6 +21,7 @@
         * [v-rep](ag4/v-rep/readme.md)
     * [ag5](ag5/readme.md)
         * [期中報告](ag5/Mechanism%20of%20ball%20-Cam%20type/mechanism-of-ball-cam-type.md)
+        * [二段式提球機構](ag5/Mechanism%20of%20ball%20-Two-section%20six-link/mechanism-of-ball-double-section-six-bar.md)
         * [三段式提球機構](ag5/Mechanism%20of%20ball%20-Three-section%20six-link/Mechanism%20of%20ball%20-Three-section%20six-link.md)
         * [gear](ag5/gear/gear.md)
     * [ag6](ag6/readme.md)
