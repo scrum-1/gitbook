@@ -8,6 +8,8 @@
 
 [漸開線正齒輪輪廓外型gh-page](https://s40523211.github.io/cd2018/gear/index.html)
 
+[50t 與 25t 的齒輪嚙合靜態輪廓圖gh-page](https://s40523211.github.io/cd2018/gear/index3.html)
+
 [漸開線正齒輪輪廓外型](https://s40523211.github.io/cd2018/demo1/blog/gear1.html)
 
 [50t 與 25t 的齒輪嚙合靜態輪廓圖](https://s40523211.github.io/cd2018/demo1/blog/gear2.html)
