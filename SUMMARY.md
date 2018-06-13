@@ -96,7 +96,18 @@
      * [bg8](bg8/readme.md)
     * [bg9](bg9/readme.md)
       * [w1](bg9/week1.md)
+      * [w3](bg9/week3.md)
+      * [w4](bg9/week4.md)
+      * [w5](bg9/week5.md)
+      * [w6](bg9/week6.md)
+      * [w7](bg9/week7.md)
+      * [w8](bg9/week8.md)
+      * [期中自評](bg9/zi-ping-cheng-ji.md)
       * [w10](bg9/W10/week10.md)
+      * [w11](bg9/wee11.md)
+      * [w14](bg9/week14.md)
+      * [w15](bg9/week15.md)
+      
 
         
 
