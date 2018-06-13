@@ -157,7 +157,10 @@
        * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
        * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
        * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
-     
+    * [bg9](bg9/readme.md)
+      * [w1](bg9/week1.md)
+      * [w3](bg1/week3.md)
+      * [w4](bg1/week4.md)     
       
         
         
