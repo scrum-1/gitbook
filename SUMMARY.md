@@ -79,3 +79,22 @@
     * [bg1](bg1/readme.md)
       * [w10](bg1/w10/w10.md)
       * [w15](bg1/w15/w15.md)
+    * [bg4](bg4/readme.md)
+        * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
+        * [40523219林韋翔](https://s40523219.gitbooks.io/cd2018_bp4/content/40523219-lin-wei-xiang.html)
+        * [W3](https://s40523219.gitbooks.io/cd2018_bp4/content/week-3.html)
+        * [W4](https://s40523219.gitbooks.io/cd2018_bp4/content/week-4.html)
+        * [W5](https://s40523219.gitbooks.io/cd2018_bp4/content/week-5.html)
+        * [W7](https://s40523219.gitbooks.io/cd2018_bp4/content/week-7.html)
+        * [期中報告](https://s40523219.gitbooks.io/cd2018_bp4/content/qi-zhong-bao-gao.html)
+        * [W10](https://s40523219.gitbooks.io/cd2018_bp4/content/week-10.html)
+        * [W11](https://s40523219.gitbooks.io/cd2018_bp4/content/week-11.html)
+        * [W14](https://s40523219.gitbooks.io/cd2018_bp4/content/week-14.html)
+        * [繪製靜態正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
+        * [繪製靜態組合正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
+        * [繪製組合轉動正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
+     * [bg8](bg8/readme.md)
+        
+
+      
+
