@@ -146,6 +146,19 @@
        * [W6](bg5/Weeklyprogress/w6.md)
        * [W7](bg5/Weeklyprogress/w7.md)
        * [W8](bg5/Weeklyprogress/w8.md)
+    
+    
+    * [bg2](bg2/readme.md)
+       * [w1](https://s40523203.gitbooks.io/2b-group2/content/chapter1.html)
+       * [w2](https://s40523203.gitbooks.io/2b-group2/content/week-2.html)
+       * [w3](https://s40523203.gitbooks.io/2b-group2/content/week-3.html)
+       * [w4](https://s40523203.gitbooks.io/2b-group2/content/week-4.html)
+       * [w5](https://s40523203.gitbooks.io/2b-group2/content/week5.html)
+       * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
+       * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
+       * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
+     
+      
         
         
         
