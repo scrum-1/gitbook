@@ -122,8 +122,6 @@
        * [w6](https://s40523220.gitbooks.io/cd2018/content/w6.html)
        * [w7](https://s40523220.gitbooks.io/cd2018/content/w7.html)
        * [w8](https://s40523220.gitbooks.io/cd2018/content/w8.html)
-       * [如何成為一位傑出的工程師?](https://s40523220.gitbooks.io/cd2018/content/chapter1.html)
-       * [Lua學習心得](https://s40523220.gitbooks.io/cd2018/content/luaxue-xi.html)
        * [期中報告](https://s40523220.gitbooks.io/cd2018/content/qi-zhong-bao-gao.html)
          * [1.鋼球運動系統](https://s40523220.gitbooks.io/cd2018/content/qi-zhong-bao-gao/11.html)
          * [2.速度分析](https://s40523220.gitbooks.io/cd2018/content/qi-zhong-bao-gao/su-du-fen-xi.html)
