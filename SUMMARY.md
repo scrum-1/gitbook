@@ -95,13 +95,15 @@
         * [繪製組合轉動正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
      * [bg8](bg8/readme.md)
        * [w1](https://s40523220.gitbooks.io/cd2018/content/w1.html)
-       * [w2](https://s40523220.gitbooks.io/cd2018/content/w2.html)
-       * [w3](https://s40523220.gitbooks.io/cd2018/content/w3.html)
-       * [w4](https://s40523220.gitbooks.io/cd2018/content/w4.html)
-       * [w5](https://s40523220.gitbooks.io/cd2018/content/w5.html)
-       * [w6](https://s40523220.gitbooks.io/cd2018/content/w6.html)
      * [bg5](bg5/readme.md)
-       * [w1](bg5/Weeklyprogress/w1.md)
+       * [W1](bg5/Weeklyprogress/w1.md)
+       * [W2](bg5/Weeklyprogress/w2.md)
+       * [W3](bg5/Weeklyprogress/w3.md)
+       * [W4](bg5/Weeklyprogress/w4.md)
+       * [W5](bg5/Weeklyprogress/w5.md)
+       * [W6](bg5/Weeklyprogress/w6.md)
+       * [W7](bg5/Weeklyprogress/w7.md)
+       * [W8](bg5/Weeklyprogress/w8.md)
         
         
         
