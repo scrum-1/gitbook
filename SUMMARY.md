@@ -155,6 +155,7 @@
        * [w4](https://s40523203.gitbooks.io/2b-group2/content/week-4.html)
        * [w5](https://s40523203.gitbooks.io/2b-group2/content/week5.html)
        * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
+       * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
        * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
            * [40523240三段式提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523240san-duan-shi-ti-qiu-ji-gou.html)
            * [40523201三段式提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523201san-duan-shi-ti-qiu-ji-gou.html)
@@ -163,8 +164,7 @@
        * [w12](https://s40523203.gitbooks.io/2b-group2/content/week12.html)
            * [分組任務](https://s40523203.gitbooks.io/2b-group2/content/week12/fen-zu-ren-wu.html)
        
-       * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
-     
+       
       
         
         
