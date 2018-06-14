@@ -112,7 +112,7 @@
        * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
      * [bg3](bg3/readme.md)
        * [w2](bg3/week-2.md)     
-       
+       * [w3](bg3/week-3.md)
     * [bg4](bg4/readme.md)
         * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
         * [40523219林韋翔](https://s40523219.gitbooks.io/cd2018_bp4/content/40523219-lin-wei-xiang.html)
