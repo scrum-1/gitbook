@@ -180,6 +180,16 @@
       * [w1](bg9/week1.md)
       * [w3](bg1/week3.md)
       * [w4](bg1/week4.md)
+      * [w5](bg1/week5.md)
+      * [w6](bg1/week6.md)
+      * [w7](bg1/week7.md)
+      * [w8](bg1/week8.md)
+      * [w10](bg1/week10.md)
+      * [w11](bg1/week11.md)
+      * [w14](bg1/week14.md)
+      * [w15](bg1/week15.md)
+      
+      
           
     * [bg5](bg5/readme.md)
        * [W1](bg5/Weeklyprogress/w1.md)
