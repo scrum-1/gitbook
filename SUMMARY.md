@@ -176,6 +176,29 @@
       * [w13-14](https://s40523220.gitbooks.io/cd2018/content/w13.html)
       * [w15](https://s40523220.gitbooks.io/cd2018/content/w15.html)
       * [w16](https://s40523220.gitbooks.io/cd2018/content/w16.html)
+    * [bg9](bg9/readme.md) 
+      * [Gitbook](https://s40523243.gitbooks.io/-gitbook/content/)
+      * [w1](bg9/week1.md)
+      * [w3](bg9/week3.md)
+      * [w4](bg9/week4.md)
+      * [w5](bg9/week5.md)
+      * [w6](bg9/week6.md)
+      * [w7](bg9/week7.md)
+      * [w7期中報告](bg9/week7期中報告)
+        * [Q1](bg9/week7期中報告/期中報告q1.md)
+        * [Q2](bg9/week7期中報告/期中報告q2.md)
+        * [Q3](bg9/week7期中報告/期中報告q3.md)  
+        * [Q4](bg9/week7期中報告/期中報告q4.md)  
+        * [Q5](bg9/week7期中報告/期中報告q5.md)  
+      
+      * [w8](bg9/week8.md)
+      * [w10](bg9/week10.md)
+      * [w11](bg9/week11.md)
+      * [w14](bg9/week14.md)
+      * [w15](bg9/week15.md)
+      
+      
+          
     * [bg5](bg5/readme.md)
        * [W1](bg5/Weeklyprogress/w1.md)
        * [W2](bg5/Weeklyprogress/w2.md)
@@ -196,11 +219,7 @@
        * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
        * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
        * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
-    * [bg9](bg9/readme.md)
-      * [w1](bg9/week1.md)
-      * [w3](bg1/week3.md)
-      * [w4](bg1/week4.md)
-    
+
     
     * [bg14](bg14eadme.md)
 
