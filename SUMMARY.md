@@ -21,6 +21,7 @@
         * [v-rep](ag4/v-rep/readme.md)
     * [ag5](ag5/readme.md)
         * [期中報告](ag5/Mechanism%20of%20ball%20-Cam%20type/mechanism-of-ball-cam-type.md)
+        * [二段式提球機構](ag5/Mechanism%20of%20ball%20-Two-section%20six-link/mechanism-of-ball-double-section-six-bar.md)
         * [三段式提球機構](ag5/Mechanism%20of%20ball%20-Three-section%20six-link/Mechanism%20of%20ball%20-Three-section%20six-link.md)
         * [gear](ag5/gear/gear.md)
     * [ag6](ag6/readme.md)
@@ -109,7 +110,9 @@
        * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
        * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
        * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
-       
+     * [bg3](bg3/readme.md)
+       * [w2](bg3/week-2.md)     
+       * [w3](bg3/week-3.md)
     * [bg4](bg4/readme.md)
         * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
         * [40523219林韋翔](https://s40523219.gitbooks.io/cd2018_bp4/content/40523219-lin-wei-xiang.html)
@@ -124,6 +127,33 @@
         * [繪製靜態正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
         * [繪製靜態組合正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
         * [繪製組合轉動正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
+        
+    * [bg6](bg6/readme.md)
+      * [w1](https://s40523226.gitbooks.io/ball-movement-system/content/w1.html)
+      * [w2](https://s40523226.gitbooks.io/ball-movement-system/content/w2.html)
+      * [w4](https://s40523226.gitbooks.io/ball-movement-system/content/w4.html)
+      * [w5](https://s40523226.gitbooks.io/ball-movement-system/content/w5.html)
+      * [w7](https://s40523226.gitbooks.io/ball-movement-system/content/w7.html)
+      * [期中報告](https://s40523226.gitbooks.io/ball-movement-system/content/qi-zhong-bao-gao.html)
+         * [鋼球運動系統](https://www.youtube.com/watch?v=Md_Z4ZlDcK8)
+         * [手動運算是否與程式驗算](https://s40523226.gitbooks.io/ball-movement-system/content/qi-zhong-bao-gao/shou-dong-yun-suan-shi-fou-yu-cheng-shi-yan-suan-huo-v-rep-mo-ni-xiang-fu.html)
+         * [選定的鋼球運動系統](https://github.com/s40523226/cd-2018team6/blob/gh-pages/%E9%81%B8%E5%AE%9A%E7%9A%84%E9%8B%BC%E7%90%83%E9%81%8B%E5%8B%95%E7%B3%BB%E7%B5%B1.ipt)
+      * [w10](https://s40523226.gitbooks.io/ball-movement-system/content/w10-11.html)
+      * [w11](https://s40523226.gitbooks.io/ball-movement-system/content/w12.html)
+      * [w12](https://s40523226.gitbooks.io/ball-movement-system/content/w11.html)
+      * [w13-14](https://s40523226.gitbooks.io/ball-movement-system/content/w13-14.html)
+    * [bg7](https://github.com/scrum-1/gitbook/blob/master/bg7/readme.md)
+      * [w4](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week4.html)
+      * [w5](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week5.html)
+      * [w7](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week7.html)
+      * [w8](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week8.html)
+      * [期中報告](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/qi-zhong-bao-gao.html)
+      * [w10](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week10.html)
+      * [w11](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week11.html)
+      * [w12](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week12.html)
+      * [w13](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week13.html)
+      * [w14](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week14.html)
+         
     * [bg8](bg8/readme.md)
       * [w1](bg8/Gitbook WiKi/W1.md)
       * [w2](bg8/Gitbook WiKi/W2.md)
@@ -148,6 +178,31 @@
       * [w13-14](https://s40523220.gitbooks.io/cd2018/content/w13.html)
       * [w15](https://s40523220.gitbooks.io/cd2018/content/w15.html)
       * [w16](https://s40523220.gitbooks.io/cd2018/content/w16.html)
+    * [bg9](bg9/readme.md) 
+      * [Gitbook](https://s40523243.gitbooks.io/-gitbook/content/)
+      * [w1](bg9/week1.md)
+      * [w3](bg9/week3.md)
+      * [w4](bg9/week4.md)
+      * [w5](bg9/week5.md)
+      * [w6](bg9/week6.md)
+      * [w7](bg9/week7.md)
+      * [w7期中報告](bg9/week7期中報告)
+        * [Q1](bg9/week7期中報告/期中報告q1.md)
+        * [Q2](bg9/week7期中報告/期中報告q2.md)
+        * [Q3](bg9/week7期中報告/期中報告q3.md)  
+        * [Q4](bg9/week7期中報告/期中報告q4.md)  
+        * [Q5](bg9/week7期中報告/期中報告q5.md)  
+      
+      * [w8](bg9/week8.md)
+      * [w10二段式鋼球運動](bg9/week10.md) 
+        * [youtube](https://www.youtube.com/watch?v=sd3tMnSQOSg&t=1s)
+        * [二段式鋼球兩週運動.](bg9/W10/cd_w11_bg9(連桿搭配軌道).ttt)      
+      * [w11](bg9/week11.md)
+      * [w14](bg9/week14.md)
+      * [w15](bg9/week15.md)
+      
+      
+          
     * [bg5](bg5/readme.md)
        * [W1](bg5/Weeklyprogress/w1.md)
        * [W2](bg5/Weeklyprogress/w2.md)
@@ -168,12 +223,10 @@
        * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
        * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
        * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
-    * [bg9](bg9/readme.md)
-      * [w1](bg9/week1.md)
-      * [w3](bg1/week3.md)
-      * [w4](bg1/week4.md)     
-      
-        
+
+    
+    * [bg14](bg14eadme.md)
+
         
         
 
