@@ -184,6 +184,7 @@
       * [w6](bg9/week6.md)
       * [w7](bg9/week7.md)
       * [w7期中報告](bg9/week7期中報告)
+        * [Q1](bg9/week7期中報告/期中報告q1.md)  
       
       * [w8](bg9/week8.md)
       * [w10](bg9/week10.md)
