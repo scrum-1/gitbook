@@ -192,7 +192,8 @@
         * [Q5](bg9/week7期中報告/期中報告q5.md)  
       
       * [w8](bg9/week8.md)
-      * [w10二段式鋼球運動](bg9/week10.md)
+      * [w10二段式鋼球運動](bg9/week10.md) 
+        * [youtube](https://www.youtube.com/watch?v=sd3tMnSQOSg&t=1s)
         * [二段式鋼球兩週運動.](bg9/W10/cd_w11_bg9(連桿搭配軌道).ttt)      
       * [w11](bg9/week11.md)
       * [w14](bg9/week14.md)
