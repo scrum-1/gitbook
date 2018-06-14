@@ -183,6 +183,8 @@
       * [w5](bg9/week5.md)
       * [w6](bg9/week6.md)
       * [w7](bg9/week7.md)
+      * [w7期中報告](bg9/week7期中報告)
+      
       * [w8](bg9/week8.md)
       * [w10](bg9/week10.md)
       * [w11](bg9/week11.md)
