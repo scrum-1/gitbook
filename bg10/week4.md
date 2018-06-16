@@ -4,7 +4,7 @@ week 4
 
 協同的共用基底![](https://s40523205.gitbooks.io/cd2018/content/assets/4-1-1.png?raw=true)
 
-協同的共用提球機構
+協同的共用提球機構![](https://s40523205.gitbooks.io/cd2018/content/4-2-1.png?raw=true)
 
 week4
 
