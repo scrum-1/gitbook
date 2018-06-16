@@ -214,7 +214,18 @@
       * [w15](bg9/week15.md)
       
       
-          
+    * [bg10](bg10/readme.md)
+       * [week3](bg10/week3.md)
+       * [week4](bg10/week4.md)
+       * [week5](bg10/week5.md)
+       * [week7](bg10/week7.md)
+       * [Midterm report](bg10/Midterm%20report.md)
+       * [week10](bg10/week10.md)
+       * [week11](bg10/week11.md)
+       * [week12-14](bg10/week12-14.md)
+       * [week15 class notes](bg10/week15%20class%20notes.md)
+
+                
     * [bg5](bg5/readme.md)
        * [W1](bg5/Weeklyprogress/w1.md)
        * [W2](bg5/Weeklyprogress/w2.md)
