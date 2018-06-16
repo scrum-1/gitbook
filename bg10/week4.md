@@ -13,7 +13,7 @@ week4
 
 Leo打不開 -->重新下載level2
 
-exit: Ctrl + ↩
+
            phython -m pip install leo 執行
 
            9.0.1改版成9.0.2
