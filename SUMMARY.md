@@ -78,7 +78,7 @@
         * COLLABORATIVE WORK
     * [ag10](ag10/readme.md)
       * [gear](ag10/gear/readme.md)
-      * [期中報告](ag10/Interim report/qi-zhong-bao-gao.md)
+      * [week1](ag10/week-1/week-1.md)
     * [ag11](ag11/readme.md)
       * [v-rep](ag11/v-rep/readme.md)
       * [W10](ag7/W10.md)
