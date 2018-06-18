@@ -76,7 +76,7 @@
       * [W10](ag7/W10.md)
     * [ag12](ag12/readme.md)
       * [v-rep](ag12/v-rep/readme.md)
-      * [case1](ag12/last thing in gitbook/case1.md)
+      * [case](ag12/last thing in gitbook/case1.md)
     * [ag14](ag14/readme.md)
       * [v-rep](ag14/v-rep/readme.md)
 * [二乙](2b_readme.md)
