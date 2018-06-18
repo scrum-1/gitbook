@@ -90,10 +90,19 @@
     * [ag8](ag8/readme.md)
         * [Double six bar linkage](ag8/V-rep/V-rep/readme.md)
     * [ag9](ag9/readme.md)
+        * [Gitbook](https://s40523119.gitbook.io/cd2018/)
         * MARBLE MACHINE
             * [Model](ag9/MARBLE-MACHINE/Model.md)
             * [Simulation](ag9/MARBLE-MACHINE/Simulation.md)
         * COURSE MISSION
+            * [How-To-Create-A-Simple-Flask](ag9/COURSE-MISSION/How-To-Create-A-Simple-Flask.md)
+            * [How-To-Deploy-Flask-To-Heroku](ag9/COURSE-MISSION/How-To-Deploy-Flask-To-Heroku.md)
+            * [How-To-Run-Python-In-Web](ag9/COURSE-MISSION/How-To-Run-Python-In-Web.md)
+            * [Python-Data-Analysis](ag9/COURSE-MISSION/Python-Data-Analysis.md)
+            * [Two-Stage-Six-bar-Linkage](ag9/COURSE-MISSION/Two-Stage-Six-bar-Linkage.md)
+            * [Spur Gears Generator](https://cd2018.herokuapp.com/GearBuilder)
+            * [Run Lua In Web](https://s40523119.github.io/cd2018/2018/03/20/run-lua-in-web/)
+            * [Run Python On Flask](https://cd2018.herokuapp.com/cdw5/)
         * V-REP
         * GEAR
         * COLLABORATIVE WORK
@@ -153,7 +162,7 @@
       * [w11](bg1/w11/w11.md)
       * [w14](bg1/w14/w14.md)
       * [w15](bg1/w15/w15.md)
-      
+
      * [bg2](bg2/readme.md)
        * [w1](https://s40523203.gitbooks.io/2b-group2/content/chapter1.html)
        * [w2](https://s40523203.gitbooks.io/2b-group2/content/week-2.html)
@@ -190,7 +199,7 @@
         * [繪製靜態正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
         * [繪製靜態組合正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
         * [繪製組合轉動正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
-    
+
     * [bg5](bg5/readme.md)
        * [W1](bg5/Weeklyprogress/w1.md)
        * [W2](bg5/Weeklyprogress/w2.md)
@@ -214,7 +223,7 @@
        * [二段式鋼球兩週運動](bg5/Weeklyprogress/w10.md)
        * [三段式鋼球兩週運動](bg5/Weeklyprogress/w14.md)
        * [gear](bg5/gear/gear.md)
-    
+
     * [bg6](bg6/readme.md)
       * [w1](https://s40523226.gitbooks.io/ball-movement-system/content/w1.html)
       * [w2](https://s40523226.gitbooks.io/ball-movement-system/content/w2.html)
@@ -241,7 +250,7 @@
       * [w12](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week12.html)
       * [w13](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week13.html)
       * [w14](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week14.html)
-         
+
     * [bg8](bg8/readme.md)
       * [w1](bg8/Gitbook%20WiKi/W1.md)
       * [w2](bg8/Gitbook%20WiKi/W2.md)
@@ -266,7 +275,7 @@
       * [w13-14](https://s40523220.gitbooks.io/cd2018/content/w13.html)
       * [w15](https://s40523220.gitbooks.io/cd2018/content/w15.html)
       * [w16](https://s40523220.gitbooks.io/cd2018/content/w16.html)
-    * [bg9](bg9/readme.md) 
+    * [bg9](bg9/readme.md)
       * [Gitbook](https://s40523243.gitbooks.io/-gitbook/content/)
       * [w1](bg9/week1.md)
       * [w3](bg9/week3.md)
@@ -280,16 +289,16 @@
         * [Q3](bg9/week7期中報告/期中報告q3.md)  
         * [Q4](bg9/week7期中報告/期中報告q4.md)  
         * [Q5](bg9/week7期中報告/期中報告q5.md)  
-      
+
       * [w8](bg9/week8.md)
-      * [w10二段式鋼球運動](bg9/week10.md) 
+      * [w10二段式鋼球運動](bg9/week10.md)
         * [youtube](https://www.youtube.com/watch?v=sd3tMnSQOSg&t=1s)
         * [二段式鋼球兩週運動.](bg9/W10/cd_w11_bg9(連桿搭配軌道).ttt)      
       * [w11](bg9/week11.md)
       * [w14](bg9/week14.md)
       * [w15](bg9/week15.md)
-      
-      
+
+
     * [bg10](bg10/readme.md)
        * [week3](bg10/week3.md)
        * [week4](bg10/week4.md)
@@ -301,7 +310,7 @@
        * [week12-14](bg10/week12-14.md)
        * [week15 class notes](bg10/week15%20class%20notes.md)
 
-    
+
     * [bg2](bg2/readme.md)
        * [w1](https://s40523203.gitbooks.io/2b-group2/content/chapter1.html)
        * [w2](https://s40523203.gitbooks.io/2b-group2/content/week-2.html)
@@ -312,11 +321,5 @@
        * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
        * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
 
-    
+
     * [bg14](bg14eadme.md)
-
-        
-        
-
-      
-
