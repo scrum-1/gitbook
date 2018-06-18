@@ -98,9 +98,16 @@
       * [期中報告](ag10/Interim report/qi-zhong-bao-gao.md)
     * [ag11](ag11/readme.md)
       * [v-rep](ag11/v-rep/readme.md)
+ <<<<<<< patch-7
+      * [W10](ag11/W10)
+ <<<<<<< patch-6
+=======
+      * [W11](ag11/W11/readme.md)
+=======
       * [W10](ag11/W10/readme.md)
       * [W11](ag11/w11test/readme.md)
-      >>>>>>> master
+
+      
     * [ag12](ag12/readme.md)
       * [case1](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/case1.md)
       * [case2](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/case2.md)
