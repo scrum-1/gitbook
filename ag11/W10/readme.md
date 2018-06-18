@@ -1,7 +1,10 @@
-# W10 兩段式六連桿提球機構設計與模擬
+ <<<<<<< patch-4
+ ## W10 兩段式六連桿提球機構設計與模擬
+ =======
+ # W10 兩段式六連桿提球機構設計與模擬
 
-下載 Pyslvs:
-http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z
+ 下載 Pyslvs:
+ http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z
 
 1.請各組在 W11 上課之前完成 Pyslvs 套件中之 ball lifter 機構的 Solvespace 零件組立與 V-rep 提球模擬
 
@@ -20,3 +23,4 @@ http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z
 40523129 : 負責撰寫部分gitbook報告並將影片上傳youtube
 
 40523143 : 負責繪製出六連桿機構並部分gitbook報告
+ >>>>>>> master
