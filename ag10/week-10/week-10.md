@@ -6,7 +6,7 @@
 
 ##### 我們是使用 inventor 畫出零件然後組起來 , 之後再轉成 V-rep 和 stl 檔
 
-<img src="https://imgur.com/a/AT4rGAV">
+![](../assets/Inventor_2018-05-08_21-02-54.png)
 
 * [連桿機構.stl](https://github.com/s40523107/cd2018/blob/gh-pages/鄭佩宜/w10/組合1%28new%29.stl)
 * [連桿機構.pyslvs](https://github.com/s40523107/cd2018/blob/gh-pages/%E9%84%AD%E4%BD%A9%E5%AE%9C/w10/Ball%20lifter%20.pyslvs)
