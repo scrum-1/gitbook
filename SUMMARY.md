@@ -78,6 +78,7 @@
         * COLLABORATIVE WORK
     * [ag10](ag10/readme.md)
       * [gear](ag10/gear/readme.md)
+      * [w1](ag10/week-1/week-1.md)
     * [ag11](ag11/readme.md)
       * [v-rep](ag11/v-rep/readme.md)
       * [W10](ag7/W10.md)
