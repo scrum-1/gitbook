@@ -19,7 +19,7 @@
         * [v-rep](ag3/v-rep/readme.md)
     * [ag4](ag4/readme.md)
         * [v-rep](ag4/v-rep/readme.md)
-        * [Week notes](ag4/Week_notes/readme.md)
+        * [Week notes](ag4/Week notes/readme.md)
          * [w1-3](ag4/Week_notes/w1-3.md)
          * [w4](ag4/Week_notes/w4.md)
          * [w5](ag4/Week_notes/w5.md)
