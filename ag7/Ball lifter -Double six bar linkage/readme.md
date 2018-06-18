@@ -15,11 +15,11 @@
 在這次的課程進度中，老師介紹了V-rep中[Dummy](http://www.coppeliarobotics.com/helpFiles/en/dummyPropertiesDialog.htm)的組立功能，而Dummy是能將物件下設置一個虛擬屬性，而再依照所需功能設置為連結參考或是路徑參考，為了讓我們再更加熟悉Dummy的使用，這周的進度是將一組雙六連桿從設計、尺寸、組立以及模擬完成，在這方面前面都過程基本上都沒有問題，但在模擬上面的機構相互關係就頗為苦手，但和同學討論後再做許多測試，總算是完成本周的進度練習了。
 
 * ###### 先用老師推薦的[Pyslvs](https://github.com/KmolYuan/python-solvespace)程式進行雙六連桿的運動路徑分析，優化路徑並使運球動作順暢。
-* ###### ![](/assets/messageImage_1525709347996.jpg)
+* ###### ![](/picture/messageImage_1525709347996.jpg)
 * ###### 確定好路徑後再進行尺寸的微調和設計桿件的配置。
-* ###### ![](/assets/messageImage_1525709371685.jpg)
+* ###### ![](/picture/messageImage_1525709371685.jpg)
 * ###### 再依照所確定的尺寸及配置繪製出立體圖並且裝配，完成後轉檔為STL檔。
-* ###### ![](/assets/messageImage_1525709421649.jpg)
+* ###### ![](/picture/messageImage_1525709421649.jpg)
 * ###### 將零件檔輸入至V-rep中連結機構間的相互關係，其中最為困難的就是建立Dummy的連結關係。
 * ![](/assets/messageImage_1525626084794.jpg)
 
