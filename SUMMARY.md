@@ -104,8 +104,10 @@
             * [Run Lua In Web](https://s40523119.github.io/cd2018/2018/03/20/run-lua-in-web/)
             * [Run Python On Flask](https://cd2018.herokuapp.com/cdw5/)
         * V-REP
+            * [Simplify-The-Mesh](ag9/V-REP/Simplify-The-Mesh.md)
+            * [Dummy](ag9/V-REP/Dummy.md)
+            * [Dummy-functions](ag9/V-REP/Dummy-functions.md)
         * GEAR
-        * COLLABORATIVE WORK
     * [ag10](ag10/readme.md)
       * [gear](ag10/gear/readme.md)
       * [week1](ag10/week-1/week-1.md)
