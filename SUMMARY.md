@@ -87,12 +87,7 @@
       * [v-rep](ag11/v-rep/readme.md)
       * [W10](ag7/W10.md)
     * [ag12](ag12/readme.md)
-      * [case1](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/case1.md)
-      * [case2](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/case2.md)
-      * [case3](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/case3.md)
-      * [鋼球機構模擬報告](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/gang-qiu-ji-gou-mo-ni-bao-gao.md)
-      * [W1~W3](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/week1.md)
-      * [W7](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/w7.md)
+
     * [ag14](ag14/readme.md)
       * [v-rep](ag14/v-rep/readme.md)
 * [二乙](2b_readme.md)
