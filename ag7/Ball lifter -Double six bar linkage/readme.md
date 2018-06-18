@@ -1,4 +1,4 @@
-# Ball lifter -Double six bar linkage 設計與模擬
+# Ball lifter - Double six bar linkage 設計與模擬
 
 * 下載 Pyslvs:
 [http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64\_cdw10.7z](http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z)
