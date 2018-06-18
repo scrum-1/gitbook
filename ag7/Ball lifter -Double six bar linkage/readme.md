@@ -33,5 +33,5 @@
 
 #### V-rep提球動作模擬檔：
 
-[https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20\(Double%20six%20bar%20linkage\)/cd\_w11\_ag7.ttt](https://github.com/s40523125/cd2018/blob/master/Folder/Ball lifter %28Double six bar linkage%29/cd_w11_ag7.ttt)
+[https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20\(Double%20six%20bar%20linkage\)/cd\_w11\_ag7.ttt](https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20\(Double%20six%20bar%20linkage\)/cd\_w11\_ag7.ttt)
 
