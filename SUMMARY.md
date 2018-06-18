@@ -108,6 +108,8 @@
             * [Dummy](ag9/V-REP/Dummy.md)
             * [Dummy-functions](ag9/V-REP/Dummy-functions.md)
         * GEAR
+            * [Spur Gear Calculator](https://s40523119.github.io/cd2018/2018/06/11/gear_generator/)
+            * [Gear-References](https://s40523119.github.io/cd2018/2018/06/11/Gear-References/)
     * [ag10](ag10/readme.md)
       * [gear](ag10/gear/readme.md)
       * [week1](ag10/week-1/week-1.md)
