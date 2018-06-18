@@ -2,7 +2,7 @@
 ---
 
 從vrep內開啟stl檔，並做大小調整
-![S-1](ag9/MARBLE-MACHINE/S-1.jpg)
+![S-1](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAgU-7dFCj3b3oIJIST%2F-LBLBLA72oyB6k8J9xe7%2F-LBLCUV5mFSo0D7z6Z7c%2FDesktop%20Screenshot%202018.04.30%20-%2017.40.50.15.png?alt=media&token=a93162e9-38ba-440a-bc80-291159986fd9)
 
 調整高度至底板附近，調整座標至中間位置。
 
