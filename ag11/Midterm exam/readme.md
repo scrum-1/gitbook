@@ -30,6 +30,11 @@ github連結: https://github.com/s40523143/cd2018
 # 3.詳細說明各組如何進行協同設計, 如何利用 Gitbook、Github 與近端或雲端主機增加設計流程效益?
 利用小組分工合作,在線上修改,提出問題與建議並完成它
 # 4.提供各組鋼球運動系統的細部零件材料表、各零件工程圖與組立檔, 若使用 Solidworks, Inventor 或 Creo 請提供相關檔案, 若使用 Onshape, 請提供個別零組件與工程圖的網路連結.
+ 
+ 零件連結:https://github.com/s40523143/cd2018
+ 
+ onshape:https://cad.onshape.com/documents/d42a012c7c84e6beddbc8dd6/w/7c43f7b4881eb8cc8d8de029/e/bf3a0f8a32d3ac20a5313646
+ 
  組合圖
  <img src="https://s40523143.gitbooks.io/cd2018/content/assets/%E9%9B%B61.jpg">
  <img src="https://s40523143.gitbooks.io/cd2018/content/assets/%E6%8E%A15.jpg">
