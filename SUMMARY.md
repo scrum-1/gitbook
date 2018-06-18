@@ -30,6 +30,7 @@
           * [40523117](ag4/Week_notes/w11/40523117.md)
           * [40523135](ag4/Week_notes/w11/40523135.md)
           * [40523137](ag4/Week_notes/w11/40523137.md)
+         * [鋼球運動系統](ag4/ball_movementreadme.md)
          * [期中報告](ag4/midterm_report/readme.md)
           * [零件表](ag4/midterm_report/零件表.md)
           * [計算](ag4/midterm_report/計算.md)
