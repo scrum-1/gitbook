@@ -37,7 +37,7 @@
           * [w5修正](ag4/week_notes/w5-修正.md)
          * [w7](ag4/week_notes/w7.md)
          * [w10](ag4/week_notes/w10.md)
-         * [w11](ag4/week_notes/w11/w11.md)
+         * [w11](ag4/week_notes/w11/README.md)
           * [40523117](ag4/week_notes/w11/40523117.md)
           * [40523135](ag4/week_notes/w11/40523135.md)
           * [40523137](ag4/week_notes/w11/40523137.md)
