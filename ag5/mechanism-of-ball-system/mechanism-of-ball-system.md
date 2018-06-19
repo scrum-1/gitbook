@@ -10,9 +10,17 @@
 
 #### ![](../assets/擷取_2018_06_15_22_18_52_750.jpg)
 
+##### [.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/%E6%9C%9F%E6%9C%AB%E6%88%90%E6%9E%9C/final%20auto%20ball%20links.ttt)
+##### [video](https://www.youtube.com/watch?v=UuaqAfhw1bM&t=6s)
+
 * #### 運球車運球
 
 #### ![](../assets/擷取_2018_06_15_22_20_32_977.jpg)
+##### [.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/%E6%9C%9F%E6%9C%AB%E6%88%90%E6%9E%9C/final%20auto%20ball%20links%202.0.ttt)
+##### [video1](https://www.youtube.com/watch?v=uuyVwx3CdPo)
+##### [video2](https://www.youtube.com/watch?v=uuyVwx3CdPo)
+
+
 
 ## \(一\)輸送帶運球
 
