@@ -320,7 +320,25 @@
        * [week11](bg10/week11.md)
        * [week12-14](bg10/week12-14.md)
        * [week15 class notes](bg10/week15%20class%20notes.md)
-
+             
+    * [bg11](bg11/readme.md)
+       * [week1](bg11/W1/W1.md)
+       * [week2](bg11/W2/W2.md)
+       * [week3](bg11/W3/W3.md)
+       * [week4](bg11/W4/W4.md)
+       * [week5](bg11/W5/W5.md)
+       * [week6](bg11/W6/W6.md)
+       * [week7](bg11/W7/W7.md)
+       * [week8-1](bg11/W8/Q01.md)
+       * [week8-2](bg11/W8/Q02.md)
+       * [week8-3](bg11/W8/Q03.md)
+       * [week8-4](bg11/W8/Q04.md)
+       * [week8-5](bg11/W8/Q05.md)
+       * [week10](bg11/W10/W10.md)
+       * [week11](bg11/W11/W11.md)
+       * [week12](bg11/W12/W12.md)
+       * [week14](bg11/W14/W14.md)
+       
     * [bg12](bg12/readme.md)
        * [week2](bg12/week2.md)
       
