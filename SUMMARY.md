@@ -128,7 +128,7 @@
       * [introduction](ag11/introduction/readme.md)
       * [Week1~week3](ag11/Week1~week3/readme.md)
       * [week4-week5](ag11/week4-week5/readme.md)
-      * [期中報告](ag11/Midterm exam/readme.md)
+      * [Midterm exam](ag11/Midterm exam/readme.md)
       * [W10](ag11/W10/readme.md)
       * [W11](ag11/w11test/readme.md)
     * [ag12](ag12/readme.md)
