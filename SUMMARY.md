@@ -1,4 +1,3 @@
-
 2018 Spring 協同產品設計實習課程電子書
 
 這裡我們嘗試將兩班各分組的電子書整理在一起
@@ -38,10 +37,11 @@
           * [w5修正](ag4/week_notes/w5-修正.md)
          * [w7](ag4/week_notes/w7.md)
          * [w10](ag4/week_notes/w10.md)
-         * [w11](ag4/week_notes/w11/w11.md)
+         * [w11](ag4/week_notes/w11/README.md)
           * [40523117](ag4/week_notes/w11/40523117.md)
           * [40523135](ag4/week_notes/w11/40523135.md)
           * [40523137](ag4/week_notes/w11/40523137.md)
+         * [鋼球運動系統](ag4/ball_movement/readme.md)
          * [期中報告](ag4/midterm_report/readme.md)
           * [零件表](ag4/midterm_report/零件表.md)
           * [計算](ag4/midterm_report/計算.md)
@@ -89,16 +89,6 @@
         * [W13](ag7/W13.md)
         * [Lua基本邏輯符號教學](ag7/Lua.md)
     * [ag8](ag8/readme.md)
-        * [gitbook](https://s40523118.gitbooks.io/ag8-report/content/)
-        * [w1](https://s40523118.gitbooks.io/ag8-report/content/week1.html)
-        * [w4](https://s40523118.gitbooks.io/ag8-report/content/week-4/01.html)
-        * [w7](https://s40523118.gitbooks.io/ag8-report/content/week7.html)
-        * [w10](https://s40523118.gitbooks.io/ag8-report/content/week-10.html)
-        * [期中報告](https://s40523118.gitbooks.io/ag8-report/content/tai-qiu-xi-tong.html)
-        * [雙六連桿系統](https://github.com/s40523118/cd2018/tree/gh-pages/sow%E6%AA%94%E6%A1%88)
-        * [雙六連桿系統組合件](https://github.com/s40523118/cd2018/tree/gh-pages/V-rep)
-        * [雙六連桿系統ttt檔](https://github.com/s40523118/cd2018/blob/gh-pages/V-rep%E6%A8%A1%E6%93%AC%E5%AE%8C%E6%88%90%E5%93%81.ttt)
-        * [連桿模擬影片 目前沒東西]()
     * [ag9](ag9/readme.md)
         * [Gitbook](https://s40523119.gitbook.io/cd2018/)
         * MARBLE MACHINE
