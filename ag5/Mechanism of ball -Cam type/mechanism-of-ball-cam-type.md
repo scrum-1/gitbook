@@ -15,7 +15,7 @@
 
 ## V-REP模擬
 
-### [steel ball running system.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/ball system 1.0 40523145.ttt)
+### [steel ball running system.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/ball%20system%201.0%2040523145.ttt)
 
 ### [video](https://www.youtube.com/watch?v=DsomBS7fDPY&t=5s)
 
