@@ -122,6 +122,7 @@
       * [week10](ag10/week-10/week-10.md)
       * [week11](ag10/week-11/week-11.md)
       * [week12](ag10/week-12/week12.md)
+      * [40523107](ag10/Ball lifter(three)/40523107)
       * [期中報告](ag10/Interim report/qi-zhong-bao-gao.md)
     * [ag11](ag11/readme.md)
       * [v-rep](ag11/v-rep/readme.md)
