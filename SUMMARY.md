@@ -196,6 +196,7 @@
        * [w11](bg3/week-11.md)
        * [w12](bg3/week-12.md)
        * [w14](bg3/week-14.md)
+       * [w15](bg3/week-15.md)
     * [bg4](bg4/readme.md)
         * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
         * [40523219林韋翔](https://s40523219.gitbooks.io/cd2018_bp4/content/40523219-lin-wei-xiang.html)
