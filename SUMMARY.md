@@ -109,9 +109,9 @@
        * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
        * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
        * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
-         * [40523240三段試提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523240san-duan-shi-ti-qiu-ji-gou.html)
-         * [40523201三段試提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523201san-duan-shi-ti-qiu-ji-gou.html)
-         * [40523203三段試提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523203san-duan-shi-ti-qiu-ji-gou.html)
+         * [40523240三段式提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523240san-duan-shi-ti-qiu-ji-gou.html)
+         * [40523201三段式提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523201san-duan-shi-ti-qiu-ji-gou.html)
+         * [40523203三段式提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523203san-duan-shi-ti-qiu-ji-gou.html)
          
         * [W12](https://s40523203.gitbooks.io/2b-group2/content/week12.html)
           * [組員漸開線齒輪](https://s40523203.gitbooks.io/2b-group2/content/week12/fen-zu-ren-wu.html)
