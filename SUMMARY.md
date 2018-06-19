@@ -320,5 +320,9 @@
        * [week11](bg10/week11.md)
        * [week12-14](bg10/week12-14.md)
        * [week15 class notes](bg10/week15%20class%20notes.md)
+
+    * [bg12](bg12/readme.md)
+       * [week2](bg12/week2.md)
+      
        
     * [bg14](bg14eadme.md)
