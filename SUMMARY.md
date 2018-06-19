@@ -107,8 +107,15 @@
        * [w4](https://s40523203.gitbooks.io/2b-group2/content/week-4.html)
        * [w5](https://s40523203.gitbooks.io/2b-group2/content/week5.html)
        * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
-       * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
        * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
+       * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
+         * [40523240三段試提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523240san-duan-shi-ti-qiu-ji-gou.html)
+         * [40523201三段試提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523201san-duan-shi-ti-qiu-ji-gou.html)
+         * [40523203三段試提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523203san-duan-shi-ti-qiu-ji-gou.html)
+         
+        * [W12](https://s40523203.gitbooks.io/2b-group2/content/week12.html)
+          * [組員漸開線齒輪](https://s40523203.gitbooks.io/2b-group2/content/week12/fen-zu-ren-wu.html)
+       
        
     * [bg4](bg4/readme.md)
         * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
@@ -159,15 +166,7 @@
        * [W8](bg5/Weeklyprogress/w8.md)
     
     
-    * [bg2](bg2/readme.md)
-       * [w1](https://s40523203.gitbooks.io/2b-group2/content/chapter1.html)
-       * [w2](https://s40523203.gitbooks.io/2b-group2/content/week-2.html)
-       * [w3](https://s40523203.gitbooks.io/2b-group2/content/week-3.html)
-       * [w4](https://s40523203.gitbooks.io/2b-group2/content/week-4.html)
-       * [w5](https://s40523203.gitbooks.io/2b-group2/content/week5.html)
-       * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
-       * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
-       * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
+ 
      
       
         
