@@ -8,19 +8,19 @@
 
 ![](../assets/Inventor_2018-05-08_21-02-54.png)
 
-* ## [連桿機構.stl](https://github.com/s40523107/cd2018/blob/gh-pages/鄭佩宜/w10/組合1%28new%29.stl)
-* ## [連桿機構.pyslvs](https://github.com/s40523107/cd2018/blob/gh-pages/鄭佩宜/w10/Ball lifter .pyslvs)
-* ## [連桿機構.slvs](https://github.com/s40523107/cd2018/blob/gh-pages/鄭佩宜/w10/Ball lifter .slvs)
-* ## [連桿機構.ttt](https://github.com/s40523107/cd2018/blob/gh-pages/鄭佩宜/w10/Ball lifter.ttt)
-* ## [連桿機構\(影片\)](https://youtu.be/TrOpN5cqAXM)
+* ## [連桿機構.stl](https://github.com/s40523107/cd2018/blob/gh-pages/%E9%84%AD%E4%BD%A9%E5%AE%9C/w10/%E7%B5%84%E5%90%881%28new%29.stl)
+* ## [連桿機構.pyslvs](https://github.com/s40523107/cd2018/blob/gh-pages/%E9%84%AD%E4%BD%A9%E5%AE%9C/w10/Ball%20lifter%20.pyslvs)
+* ## [連桿機構.slvs](https://github.com/s40523107/cd2018/blob/gh-pages/%E9%84%AD%E4%BD%A9%E5%AE%9C/w10/Ball%20lifter%20.slvs)
+* ## [連桿機構.ttt](https://github.com/s40523107/cd2018/blob/gh-pages/%E9%84%AD%E4%BD%A9%E5%AE%9C/w10/Ball%20lifter(4).ttt)
+* ## [連桿機構\(影片\)](https://www.youtube.com/watch?v=TrOpN5cqAXM&feature=youtu.be)
 
 > ## 頂球模擬:
 
 ## ![](../assets/chrome_2018-06-19_23-01-47.png)
 
-* # [頂球模擬.stl](https://github.com/s40523107/cd2018/blob/gh-pages/鄭佩宜/w10/Assembly 2.stl)
-* # [頂球模擬.ttt](https://github.com/s40523107/cd2018/blob/gh-pages/鄭佩宜/w10/sixlink.ttt)
-* ## [頂球模擬影片](https://youtu.be/imADWrx81wM)
+* # [頂球模擬.stl](https://github.com/s40523107/cd2018/blob/gh-pages/%E9%84%AD%E4%BD%A9%E5%AE%9C/w10/Assembly%202.stl)
+* # [頂球模擬.ttt](https://github.com/s40523107/cd2018/blob/gh-pages/%E9%84%AD%E4%BD%A9%E5%AE%9C/w10/sixlink.ttt)
+* ## [頂球模擬影片](https://www.youtube.com/watch?v=imADWrx81wM&feature=youtu.be)
 
 > ## 問題:
 
