@@ -1,3 +1,7 @@
+# 測試電子書的改版
+
+設法修正錯誤
+
 # 如何在 Gitbook 嵌入影片
 
 由於 Gitbook 中的 README.md 就是整本電子書內定的 introduction, 而 SUMMARY.md 則是 Table of Content, 用來設定各章節標題與對應檔案名稱.
