@@ -4,13 +4,10 @@
 
 ---
 
-#### 三段式六連桿提球機構模擬
-
-[https://www.youtube.com/watch?v=s5YY3JLiyPY](https://www.youtube.com/watch?v=s5YY3JLiyPY)
-
-#### 機構零件及組立檔
-
-[https://cad.onshape.com/documents/14715f1eef7b6cdeae330377/w/e2c8bc571221381658fd05a8/e/b30b1b563f6fe81d671c8a5a](https://cad.onshape.com/documents/14715f1eef7b6cdeae330377/w/e2c8bc571221381658fd05a8/e/b30b1b563f6fe81d671c8a5a)
+#### [三段式六連桿提球機構模擬](https://www.youtube.com/watch?v=s5YY3JLiyPY)
+#### [三段式六連桿提球機構Slvs](https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20(Triple%20six%20bar%20linkage)/triple_lifter.slvs)
+#### [三段式六連桿提球機構Pyslvs](https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20(Triple%20six%20bar%20linkage)/triple_lifter.pyslvs)
+#### [機構零件及組立檔](https://cad.onshape.com/documents/14715f1eef7b6cdeae330377/w/e2c8bc571221381658fd05a8/e/b30b1b563f6fe81d671c8a5a)
 
 #### 運轉干涉檢查
 
