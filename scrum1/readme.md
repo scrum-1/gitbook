@@ -1,12 +1,3 @@
-**DEPRECATION NOTICE**
-
-This book used to be the documentation for GitBook and GitBook.com. Now the docs have been split:
-
-- [Help Center](https://help.gitbook.com/) for general knowledge base. Source is [here](https://github.com/GitbookIO/help.gitbook.com).
-- [Toolchain Documentation](https://toolchain.gitbook.com/) for complete documentation of GitBook format and tools. Source is in the [official repository](https://github.com/GitbookIO/gitbook/)
-
-----
-
 # GitBook Documentation
 
 This book contains the entire documentation for **GitBook** (gitbook.com and format).
