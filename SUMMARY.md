@@ -31,7 +31,7 @@
         * [Week14](ag3/14/qi-mo-zhuan-an.md)
     * [ag4](ag4/readme.md)
         * [v-rep](ag4/v-rep/readme.md)
-        * [Week notes](ag4/week_notes/readme.md)
+        * [week notes](ag4/week_notes/readme.md)
          * [w1-3](ag4/week_notes/w1-3.md)
          * [w4](ag4/week_notes/w4.md)
          * [w5](ag4/week_notes/w5.md)
