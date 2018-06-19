@@ -88,7 +88,6 @@
         * [W13](ag7/W13.md)
         * [Lua基本邏輯符號教學](ag7/Lua.md)
     * [ag8](ag8/readme.md)
-        * [Double six bar linkage](ag8/V-rep/V-rep/readme.md)
     * [ag9](ag9/readme.md)
         * [Gitbook](https://s40523119.gitbook.io/cd2018/)
         * MARBLE MACHINE
