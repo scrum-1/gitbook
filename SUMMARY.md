@@ -18,7 +18,7 @@
     * [ag3](ag3/readme.md)
         * [v-rep](ag3/v-rep/readme.md)
     * [ag4](ag4/readme.md)
-        
+        * [v-rep](ag4/v-rep/readme.md)
     * [ag5](ag5/readme.md)
     * [ag6](ag6/readme.md)
         * [v-rep](ag6/v-rep/readme.md)
