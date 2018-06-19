@@ -16,20 +16,32 @@
     * [ag1](ag1/readme.md)
         * [v-rep](ag1/v-rep/readme.md)
     * [ag3](ag3/readme.md)
-        * [v-rep](ag3/v-rep/readme.md)
+        * [Week1-3_40523102](ag3/1-3/40523102.md)
+        * [Week1-3_40523104](ag3/1-3/40523104.md)
+        * [Week1-3_40523123](ag3/1-3/40523123.md)
+        * [Week4-6_python](ag3/4-6/pythonlian-xi-2014-fen-zu.md)
+        * [Week4-6_brython](ag3/4-6/brythonlian-xi-2014-liu-lan-qi.md)
+        * [Week7-9_flask](ag3/7-9/flask.md)
+        * [Week7-9_heroku](ag3/7-9/heroku.md)
+        * [Week10_filesreport](ag3/10/suo-xu-dang-an.md)
+        * [Week10_works](ag3/10/zuo-ye-nei-rong.md)
+        * [Week11_40523102](ag3/10/40523102.md)
+        * [Week11_40523104](ag3/10/40523104.md)
+        * [Week11_40523123](ag3/10/40523123.md)
+        * [Week14](ag3/10/qi-mo-zhuan-an.md)
     * [ag4](ag4/readme.md)
         * [v-rep](ag4/v-rep/readme.md)
-        * [Week notes](ag4/Week_notes/readme.md)
-         * [w1-3](ag4/Week_notes/w1-3.md)
-         * [w4](ag4/Week_notes/w4.md)
-         * [w5](ag4/Week_notes/w5.md)
-          * [w5修正](ag4/Week_notes/w5-修正.md)
-         * [w7](ag4/Week_notes/w7.md)
-         * [w10](ag4/Week_notes/w10.md)
-         * [w11](ag4/Week_notes/w11/w11.md)
-          * [40523117](ag4/Week_notes/w11/40523117.md)
-          * [40523135](ag4/Week_notes/w11/40523135.md)
-          * [40523137](ag4/Week_notes/w11/40523137.md)
+        * [Week notes](ag4/week_notes/readme.md)
+         * [w1-3](ag4/week_notes/w1-3.md)
+         * [w4](ag4/week_notes/w4.md)
+         * [w5](ag4/week_notes/w5.md)
+          * [w5修正](ag4/week_notes/w5-修正.md)
+         * [w7](ag4/week_notes/w7.md)
+         * [w10](ag4/week_notes/w10.md)
+         * [w11](ag4/week_notes/w11/w11.md)
+          * [40523117](ag4/week_notes/w11/40523117.md)
+          * [40523135](ag4/week_notes/w11/40523135.md)
+          * [40523137](ag4/week_notes/w11/40523137.md)
          * [期中報告](ag4/midterm_report/readme.md)
           * [零件表](ag4/midterm_report/零件表.md)
           * [計算](ag4/midterm_report/計算.md)
@@ -71,19 +83,33 @@
         * [W7](ag7/W7.md)
         * [W9_期中報告](ag7/W9_期中報告.md)
         * [W10](ag7/W10.md)
-        * [W11](ag7/W11.md)
+        * [W11-ag7](ag7/W11.md)
+        * [W11-40523126](ag7/W11-4052312.md)
         * [W13](ag7/W13.md)
         * [Lua基本邏輯符號教學](ag7/Lua.md)
     * [ag8](ag8/readme.md)
         * [Double six bar linkage](ag8/V-rep/V-rep/readme.md)
     * [ag9](ag9/readme.md)
+        * [Gitbook](https://s40523119.gitbook.io/cd2018/)
         * MARBLE MACHINE
             * [Model](ag9/MARBLE-MACHINE/Model.md)
             * [Simulation](ag9/MARBLE-MACHINE/Simulation.md)
         * COURSE MISSION
+            * [How-To-Create-A-Simple-Flask](ag9/COURSE-MISSION/How-To-Create-A-Simple-Flask.md)
+            * [How-To-Deploy-Flask-To-Heroku](ag9/COURSE-MISSION/How-To-Deploy-Flask-To-Heroku.md)
+            * [How-To-Run-Python-In-Web](ag9/COURSE-MISSION/How-To-Run-Python-In-Web.md)
+            * [Python-Data-Analysis](ag9/COURSE-MISSION/Python-Data-Analysis.md)
+            * [Two-Stage-Six-bar-Linkage](ag9/COURSE-MISSION/Two-Stage-Six-bar-Linkage.md)
+            * [Spur Gears Generator](https://cd2018.herokuapp.com/GearBuilder)
+            * [Run Lua In Web](https://s40523119.github.io/cd2018/2018/03/20/run-lua-in-web/)
+            * [Run Python On Flask](https://cd2018.herokuapp.com/cdw5/)
         * V-REP
+            * [Simplify-The-Mesh](ag9/V-REP/Simplify-The-Mesh.md)
+            * [Dummy](ag9/V-REP/Dummy.md)
+            * [Dummy-functions](ag9/V-REP/Dummy-functions.md)
         * GEAR
-        * COLLABORATIVE WORK
+            * [Spur Gear Calculator](https://s40523119.github.io/cd2018/2018/06/11/gear_generator/)
+            * [Gear-References](https://s40523119.github.io/cd2018/2018/06/11/Gear-References/)
     * [ag10](ag10/readme.md)
       * [gear](ag10/gear/readme.md)
       * [week1](ag10/week-1/week-1.md)
@@ -98,7 +124,12 @@
       * [期中報告](ag10/Interim report/qi-zhong-bao-gao.md)
     * [ag11](ag11/readme.md)
       * [v-rep](ag11/v-rep/readme.md)
-      * [W10](ag7/W10.md)
+      * [introduction](ag11/introduction/readme.md)
+      * [Week1~week3](ag11/Week1~week3/readme.md)
+      * [week4-week5](ag11/week4-week5/readme.md)
+      * [Midtermexam](ag11/Midterm exam/readme.md)
+      * [W10](ag11/W10/readme.md)
+      * [W11](ag11/w11test/readme.md)
     * [ag12](ag12/readme.md)
       * [case1](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/case1.md)
       * [case2](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/case2.md)
@@ -135,7 +166,7 @@
       * [w11](bg1/w11/w11.md)
       * [w14](bg1/w14/w14.md)
       * [w15](bg1/w15/w15.md)
-      
+
      * [bg2](bg2/readme.md)
        * [w1](https://s40523203.gitbooks.io/2b-group2/content/chapter1.html)
        * [w2](https://s40523203.gitbooks.io/2b-group2/content/week-2.html)
@@ -172,7 +203,7 @@
         * [繪製靜態正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
         * [繪製靜態組合正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
         * [繪製組合轉動正齒輪](https://s40523219.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
-    
+
     * [bg5](bg5/readme.md)
        * [W1](bg5/Weeklyprogress/w1.md)
        * [W2](bg5/Weeklyprogress/w2.md)
@@ -196,7 +227,7 @@
        * [二段式鋼球兩週運動](bg5/Weeklyprogress/w10.md)
        * [三段式鋼球兩週運動](bg5/Weeklyprogress/w14.md)
        * [gear](bg5/gear/gear.md)
-    
+
     * [bg6](bg6/readme.md)
       * [w1](https://s40523226.gitbooks.io/ball-movement-system/content/w1.html)
       * [w2](https://s40523226.gitbooks.io/ball-movement-system/content/w2.html)
@@ -223,7 +254,7 @@
       * [w12](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week12.html)
       * [w13](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week13.html)
       * [w14](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week14.html)
-         
+
     * [bg8](bg8/readme.md)
       * [w1](bg8/Gitbook%20WiKi/W1.md)
       * [w2](bg8/Gitbook%20WiKi/W2.md)
@@ -248,7 +279,7 @@
       * [w13-14](https://s40523220.gitbooks.io/cd2018/content/w13.html)
       * [w15](https://s40523220.gitbooks.io/cd2018/content/w15.html)
       * [w16](https://s40523220.gitbooks.io/cd2018/content/w16.html)
-    * [bg9](bg9/readme.md) 
+    * [bg9](bg9/readme.md)
       * [Gitbook](https://s40523243.gitbooks.io/-gitbook/content/)
       * [w1](bg9/week1.md)
       * [w3](bg9/week3.md)
@@ -262,16 +293,16 @@
         * [Q3](bg9/week7期中報告/期中報告q3.md)  
         * [Q4](bg9/week7期中報告/期中報告q4.md)  
         * [Q5](bg9/week7期中報告/期中報告q5.md)  
-      
+
       * [w8](bg9/week8.md)
-      * [w10二段式鋼球運動](bg9/week10.md) 
+      * [w10二段式鋼球運動](bg9/week10.md)
         * [youtube](https://www.youtube.com/watch?v=sd3tMnSQOSg&t=1s)
         * [二段式鋼球兩週運動.](bg9/W10/cd_w11_bg9(連桿搭配軌道).ttt)      
       * [w11](bg9/week11.md)
       * [w14](bg9/week14.md)
       * [w15](bg9/week15.md)
-      
-      
+
+
     * [bg10](bg10/readme.md)
        * [week3](bg10/week3.md)
        * [week4](bg10/week4.md)
@@ -283,7 +314,7 @@
        * [week12-14](bg10/week12-14.md)
        * [week15 class notes](bg10/week15%20class%20notes.md)
 
-    
+
     * [bg2](bg2/readme.md)
        * [w1](https://s40523203.gitbooks.io/2b-group2/content/chapter1.html)
        * [w2](https://s40523203.gitbooks.io/2b-group2/content/week-2.html)
@@ -294,11 +325,5 @@
        * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
        * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
 
-    
+
     * [bg14](bg14eadme.md)
-
-        
-        
-
-      
-
