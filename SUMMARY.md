@@ -319,17 +319,5 @@
        * [week11](bg10/week11.md)
        * [week12-14](bg10/week12-14.md)
        * [week15 class notes](bg10/week15%20class%20notes.md)
-
-
-    * [bg2](bg2/readme.md)
-       * [w1](https://s40523203.gitbooks.io/2b-group2/content/chapter1.html)
-       * [w2](https://s40523203.gitbooks.io/2b-group2/content/week-2.html)
-       * [w3](https://s40523203.gitbooks.io/2b-group2/content/week-3.html)
-       * [w4](https://s40523203.gitbooks.io/2b-group2/content/week-4.html)
-       * [w5](https://s40523203.gitbooks.io/2b-group2/content/week5.html)
-       * [w7](https://s40523203.gitbooks.io/2b-group2/content/week7.html)
-       * [w10](https://s40523203.gitbooks.io/2b-group2/content/week10.html)
-       * [期中報告](https://s40523203.gitbooks.io/2b-group2/content/gang-qiu-xun-huan-ji-gou-bao-gao.html)
-
-
+       
     * [bg14](bg14eadme.md)
