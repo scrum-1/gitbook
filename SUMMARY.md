@@ -356,6 +356,8 @@
        * [week16](bg12/week16.md) 
        
      * [bg13](bg13/readme.md)
+       * [Introduction](https://s40523237.gitbooks.io/2018cdb-no-13/content/)
+       * [Summary](https://s40523237.gitbooks.io/2018cdb-no-13/content/ke-cheng-jin-du.html)
        * [week1](https://s40523237.gitbooks.io/2018cdb-no-13/content/week1.html)
        * [week2](https://s40523237.gitbooks.io/2018cdb-no-13/content/week2.html)
        * [week3](https://s40523237.gitbooks.io/2018cdb-no-13/content/week3.html)
@@ -363,12 +365,13 @@
        * [week5](https://s40523237.gitbooks.io/2018cdb-no-13/content/week5.html)
        * [week6](https://s40523237.gitbooks.io/2018cdb-no-13/content/week6.html)
        * [week7](https://s40523237.gitbooks.io/2018cdb-no-13/content/week7.html)
-       * [week8](https://s40523237.gitbooks.io/2018cdb-no-13/content/week8.html)
        * [week9](https://s40523237.gitbooks.io/2018cdb-no-13/content/week9.html)  
        * [week10](https://s40523237.gitbooks.io/2018cdb-no-13/content/cdw11.html)
        * [week11](https://s40523237.gitbooks.io/2018cdb-no-13/content/week11.html)
        * [week12](https://s40523237.gitbooks.io/2018cdb-no-13/content/week12.html)
-           
+       * [week15](https://s40523237.gitbooks.io/2018cdb-no-13/content/week15.html)
+       * [week16](https://s40523237.gitbooks.io/2018cdb-no-13/content/week16.html)
+         
     * [bg14](bg14/readme.md)
       * [w1](https://legacy.gitbook.com/book/405232491/cd_2018_team14/edit#/edit/master/week1.md?_k=kbw6ij)
        * [w2](https://legacy.gitbook.com/book/405232491/cd_2018_team14/edit#/edit/master/week2.md?_k=x3q23p)
