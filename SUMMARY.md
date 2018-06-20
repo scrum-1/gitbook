@@ -288,6 +288,7 @@
       * [w13-14](bg8/Gitbook%20WiKi/W13-14.md)
       * [w15](bg8/Gitbook%20WiKi/W15.md)
       * [w16](bg8/Gitbook%20WiKi/W16.md)
+      * [w16](bg8/Gitbook%20WiKi/lua學習心得.md)
     * [bg9](bg9/readme.md)
       * [Gitbook](https://s40523243.gitbooks.io/-gitbook/content/)
       * [w1](bg9/week1.md)
