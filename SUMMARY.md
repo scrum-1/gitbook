@@ -356,6 +356,7 @@
        * [week16](bg12/week16.md) 
        
      * [bg13](bg13/readme.md)
+       * [week1](https://s40523237.gitbooks.io/2018cdb-no-13/content/week1.html)
        * [week2](https://s40523237.gitbooks.io/2018cdb-no-13/content/week2.html)
        * [week3](https://s40523237.gitbooks.io/2018cdb-no-13/content/week3.html)
        * [week4](https://s40523237.gitbooks.io/2018cdb-no-13/content/week4.html)
