@@ -274,11 +274,11 @@
       * [w7](bg8/Gitbook%20WiKi/W7.md)
       * [w8](bg8/Gitbook%20WiKi/W8.md)
       * [期中報告]
-         * [1.鋼球運動系統](bg8/Gitbook%20WiKi/Mid-term report/1.md)
-         * [2.速度分析](bg8/Gitbook%20WiKi/Mid-term report/2.md)
-         * [3.說明第8組的協同設計](bg8/Gitbook%20WiKi/Mid-term report/3.md)
-         * [4.零件圖.工程圖.組合圖](bg8/Gitbook%20WiKi/Mid-term report/4.md)
-         * [5.組員貢獻及倉儲連結](bg8/Gitbook%20WiKi/Mid-term report/5.md)
+         * [1.鋼球運動系統](bg8/Gitbook%20WiKi/Mid-term%10report/1.md)
+         * [2.速度分析](bg8/Gitbook%20WiKi/Mid-term%10report/2.md)
+         * [3.說明第8組的協同設計](bg8/Gitbook%20WiKi/Mid-term%10report/3.md)
+         * [4.零件圖.工程圖.組合圖](bg8/Gitbook%20WiKi/Mid-term%10report/4.md)
+         * [5.組員貢獻及倉儲連結](bg8/Gitbook%20WiKi/Mid-term%10report/5.md)
       * [期末專案]
          * [w10](bg8/Gitbook%20WiKi/middle/1.md)
            * [任務回報](bg8/Gitbook%20WiKi/middle/2.md)
