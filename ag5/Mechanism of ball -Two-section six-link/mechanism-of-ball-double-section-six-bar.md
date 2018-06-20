@@ -31,9 +31,9 @@
 
 ![](../assets/onshape.png)
 
-鋼珠預設直徑為8.5mm所以接球桿直徑設為9mm![](../assets/onsh ape.png)
+鋼珠預設直徑為8.5mm所以接球桿直徑設為9mm![](https://github.com/scrum-1/gitbook/blob/master/ag5/assets/onsh%20ape.png)
 
-第二階段的平台也是![](../assets/onshape .png)
+第二階段的平台也是![](https://github.com/scrum-1/gitbook/blob/master/ag5/assets/onshape%20.png)
 
 四.組裝所有零件
 
