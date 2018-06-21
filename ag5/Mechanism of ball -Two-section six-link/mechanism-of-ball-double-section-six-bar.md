@@ -19,15 +19,15 @@
 
 首先運用學長開發的Pyslvs和老師給的六連趕範例，去拉尺寸，因為Pyslvs是一個可以任意更改長度的工具，然後直接模擬，所 以我們可以很輕鬆的輸出我們要的兩段式提球機構，這邊要注意的是球要從第一段運送到第二段之間的距離，這也是我第一個遇到的問題，太小會撞到太大球會掉出來，後來我的解決辦法是用拋的，有效的避開連感之間的碰撞
 
-![](/assets/pyslvs 1 .png)
+![](/assets/pyslvs 1 .png)[.plslvs](https://github.com/s40523146/cd2018/blob/gh-pages/w17/40523146.pyslvs)
 
 二.輸出成slvs檔
 
-[模擬2.0.slvs](https://github.com/s40523146/cd2018/blob/gh-pages/w17/triple%20links.stl)
+[模擬2.0.slvs](https://github.com/s40523146/cd2018/blob/gh-pages/w17/triple links.stl)
 
 輸出成slvs檔候用solvespace打開得到各個連桿的相對位置和尺寸
 
-![](/assets/slvespace.png)
+![](/assets/slvespace.png)[.slvs](https://github.com/s40523146/cd2018/blob/gh-pages/w17/40523146.slvs)
 
 三.在onshape把零件都畫出來
 
@@ -79,9 +79,9 @@ joint
 
 #### 球的實際模擬尺寸為8.3mm 重量1.5kg![](/assets/球.png)[最後模擬影片](https://www.youtube.com/watch?v=j1VEKvkr0Qs&feature=youtu.be)
 
-#### [模擬檔2.0.ttt](https://github.com/s40523146/cd2018/blob/gh-pages/w17/triple%20links%202.0.ttt)
+#### [模擬檔2.0.ttt](https://github.com/s40523146/cd2018/blob/gh-pages/w17/triple links 2.0.ttt)
 
-#### [模擬檔3.0.ttt](https://github.com/s40523146/cd2018/blob/gh-pages/w17/double%20linker%203.0.ttt)
+#### [模擬檔3.0.ttt](https://github.com/s40523146/cd2018/blob/gh-pages/w17/double linker 3.0.ttt)
 
 ## 遇到問題
 
