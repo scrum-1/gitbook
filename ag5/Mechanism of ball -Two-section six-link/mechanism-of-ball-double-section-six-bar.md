@@ -19,7 +19,9 @@
 
 首先運用學長開發的Pyslvs和老師給的六連趕範例，去拉尺寸，因為Pyslvs是一個可以任意更改長度的工具，然後直接模擬，所 以我們可以很輕鬆的輸出我們要的兩段式提球機構，這邊要注意的是球要從第一段運送到第二段之間的距離，這也是我第一個遇到的問題，太小會撞到太大球會掉出來，後來我的解決辦法是用拋的，有效的避開連感之間的碰撞
 
-![](/assets/pyslvs 1 .png)[.plslvs](https://github.com/s40523146/cd2018/blob/gh-pages/w17/40523146.pyslvs)
+![](/assets/pyslvs 1 .png)
+
+[.plslvs](https://github.com/s40523146/cd2018/blob/gh-pages/w17/40523146.pyslvs)
 
 二.輸出成slvs檔
 
