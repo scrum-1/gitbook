@@ -19,35 +19,35 @@
 
 首先運用學長開發的Pyslvs和老師給的六連趕範例，去拉尺寸，因為Pyslvs是一個可以任意更改長度的工具，然後直接模擬，所 以我們可以很輕鬆的輸出我們要的兩段式提球機構，這邊要注意的是球要從第一段運送到第二段之間的距離，這也是我第一個遇到的問題，太小會撞到太大球會掉出來，後來我的解決辦法是用拋的，有效的避開連感之間的碰撞
 
-![](/assets/pyslvs 1 .png)
+![](../assets/pyslvs 1 .png)
 
 二.輸出成slvs檔
 
 輸出成slvs檔候用solvespace打開得到各個連桿的相對位置和尺寸
 
-![](/assets/slvespace.png)
+![](../assets/slvespace.png)
 
 三.在onshape把零件都畫出來
 
-![](/assets/onshape.png)
+![](../assets/onshape.png)
 
-鋼珠預設直徑為8.5mm所以接球桿直徑設為9mm![](/assets/onsh ape.png)
+鋼珠預設直徑為8.5mm所以接球桿直徑設為9mm![](https://github.com/scrum-1/gitbook/blob/master/ag5/assets/onsh%20ape.png)
 
-第二階段的平台也是![](/assets/onshape .png)
+第二階段的平台也是![](https://github.com/scrum-1/gitbook/blob/master/ag5/assets/onshape%20.png)
 
 四.組裝所有零件
 
-組裝前記得要把底盤固定才不會跑來跑去不好組裝![](/assets/merge.png)
+組裝前記得要把底盤固定才不會跑來跑去不好組裝![](../assets/merge.png)
 
 我主要用兩種結合法一種是轉動結合，轉動結合試用於兩面緊緊貼合處，然後記得要留1mm的空隙，不然等到開碰撞檢測就會爆
 
-![](/assets/merge1png.png)
+![](../assets/merge1png.png)
 
-另一種為圓柱結合用於下面這種因為要避開其他連桿而沒有黏在一起的連桿![](/assets/merge2.png)
+另一種為圓柱結合用於下面這種因為要避開其他連桿而沒有黏在一起的連桿![](../assets/merge2.png)
 
 全部組合完要可以用模擬動態，不能有任何干涉\([模擬影片](https://youtu.be/d2VEhY6V7rg)\)
 
-![](/assets/merge3.png)
+![](../assets/merge3.png)
 
 最後在每個洞裡，給他一個Pin，方便待會定位
 
@@ -67,11 +67,11 @@ joint
 
 軌道我設計的很簡單，一個碗接球，然後順著軌道流到接球點
 
-![](/assets/軌道.png)
+![](../assets/軌道.png)
 
 主要的問題是接球，剛開始真的不知道怎麼接球，想出可不可以靠感測器，但是那時技術還不會所以只好參考老師給的設計
 
-![](/assets/軌道2.png)一樣的困難點，求過去不能掉下去，接球桿過來不能打到，如果放太近Vrep模擬會卡卡的![](/assets/軌道4.png)經過多次嘗試後距離8是最好的距離
+![](../assets/軌道2.png)一樣的困難點，求過去不能掉下去，接球桿過來不能打到，如果放太近Vrep模擬會卡卡的![](/assets/軌道4.png)經過多次嘗試後距離8是最好的距離
 
 七.最後模擬
 
