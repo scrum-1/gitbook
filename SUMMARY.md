@@ -76,7 +76,7 @@
         * [Ball lifter (Double six bar linkage)](ag7/Ball%20lifter%20-Double%20six%20bar%20linkage/readme.md)
         * [Ball lifter (Triple six bar linkage)](ag7/Ball%20lifter%20-Triple%20six%20bar%20linkage/readme.md)
         * [v-rep](ag7/v-rep/readme.md)
-        * [components draw](ag7/components　20draw/readme.md)
+        * [components draw](ag7/components%20draw/readme.md)
         * [W1](ag7/W1.md)
         * [W3](ag7/W3.md)
         * [W4](ag7/W4.md)
