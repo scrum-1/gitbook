@@ -14,4 +14,3 @@
 
 [14組倉儲](https://github.com/40523249/cd2018_team14)
 
-組員個人gitbook:
