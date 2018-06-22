@@ -127,7 +127,7 @@
     * [ag11](ag11/readme.md)
       * [v-rep](ag11/v-rep/readme.md)
       * [introduction](ag11/introduction/readme.md)
-      * [Week1~week3](ag11/Week1~week3/readme.md)
+      * [Week1~week3](ag11/week1~week3/readme.md)
       * [week4-week5](ag11/week4-week5/readme.md)
       * [Midterm exam](ag11/Midterm exam/readme.md)
       * [W10](ag11/W10/readme.md)
