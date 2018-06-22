@@ -401,5 +401,6 @@
        * [w11](https://405232491.gitbooks.io/cd_2018_team14/content/week11.html)
        * [w12](https://405232491.gitbooks.io/cd_2018_team14/content/week12.html)
        * [w14](https://405232491.gitbooks.io/cd_2018_team14/content/week14.html)
-       * [w16](https://405232491.gitbooks.io/cd_2018_team14/content/week16.html)
+       * [w15](https://405232491.gitbooks.io/cd_2018_team14/content/week15.html)
+       * [w16]()
        
