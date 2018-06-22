@@ -101,6 +101,7 @@
         * [雙六連桿系統](https://github.com/s40523118/cd2018/tree/gh-pages/sow%E6%AA%94%E6%A1%88)
         * [雙六連桿系統組合件](https://github.com/s40523118/cd2018/tree/gh-pages/V-rep)
         * [雙六連桿系統ttt檔](https://github.com/s40523118/cd2018/blob/gh-pages/V-rep%E6%A8%A1%E6%93%AC%E5%AE%8C%E6%88%90%E5%93%81.ttt)
+        * [雙六連趕系統模擬影片](https://www.youtube.com/watch?v=XMwdzJv7eQs)
     * [ag9](ag9/readme.md)
         * [Gitbook](https://s40523119.gitbook.io/cd2018/)
         * MARBLE MACHINE
