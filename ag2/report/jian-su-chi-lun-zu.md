@@ -6,7 +6,7 @@
 
 [ONSHAPE](https://cad.onshape.com/documents/345f1a801a2318531bf9a96f/w/7f9bd65bc39dbf14e072bdfa/e/2bd9b0798f29b66e73f35cfb)
 
-![](/assets/齒輪V-REP.png)
+![](assets/齒輪V-REP.png)
 
 * ##### 利用[Doug Roger's port to C++](http://dougrogers.blogspot.com/2016/08/gear-bakery-10-port-of-dr-rainer.html) 裡的漸開線正齒輪產生器，繪製出齒輪輪廓
 * ##### 繪出的的dxf檔，接著用匯入onshape做出立體模型，並組合起來，匯出成STL檔
@@ -16,17 +16,17 @@
 
 下圖是[Doug Roger's port to C++](http://dougrogers.blogspot.com/2016/08/gear-bakery-10-port-of-dr-rainer.html) 中齒輪產生器裡的參數設定欄:
 
-![](/assets/齒輪生產器參數設定欄.png)
+![](assets/齒輪生產器參數設定欄.png)
 
 ---
 
 #### ONSHAPE:齒輪箱製作
 
-![](/assets/齒輪箱ONSHAPE.png)
+![](assets/齒輪箱ONSHAPE.png)
 
 #### V-REP:齒輪箱模擬
 
-![](/assets/齒輪箱VREP.png)
+![](assets/齒輪箱VREP.png)
 
 ---
 
@@ -36,11 +36,11 @@
 
 使用 canvas 畫出一個可自選齒數之靜態正齒輪
 
-![](/assets/使用 canvas 畫出一個可自選齒數之靜態正齒輪.png)
+![](assets/使用 canvas 畫出一個可自選齒數之靜態正齒輪.png)
 
 使用事先建立好的 cango 程式庫畫出一個可自選齒數之靜態正齒輪
 
-![](/assets/使用事先建立好的 cango 程式庫畫出一個可自選齒數之靜態正齒輪.png)
+![](assets/使用事先建立好的 cango 程式庫畫出一個可自選齒數之靜態正齒輪.png)
 
 
 
@@ -48,13 +48,13 @@
 
 使用事先建立好的 cango 程式庫畫出兩個可自選齒數並組合之靜態正齒輪
 
-![](/assets/使用事先建立好的 cango 程式庫畫出兩個可自選齒數並組合之靜態正齒輪.png)
+![](assets/使用事先建立好的 cango 程式庫畫出兩個可自選齒數並組合之靜態正齒輪.png)
 
 ---
 
 完成兩齒嚙合靜態繪圖後,繪製組合轉動正齒輪
 
-![](/assets/1529290755062.gif)
+![](assets/1529290755062.gif)
 
 ---
 
