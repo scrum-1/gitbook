@@ -15,6 +15,7 @@
     * [ag1](ag1/readme.md)
         * [v-rep](ag1/v-rep/readme.md)
         * [onshape](ag1/onshape/readme.md)
+        * [第十周](ag1/第十周/readme.md)
     * [ag2](ag2/readme.md)
         * [w10](ag2/report/w10.md)
         * [w11](ag2/report/w11.md)
