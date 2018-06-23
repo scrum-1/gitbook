@@ -38,23 +38,36 @@
 
 ![](../assets/擷取_2018_06_10_17_30_58_526.png)
 
+* ## [.pyslvs](https://github.com/s40523145/cd2018/blob/gh-pages/w12/triple_lifter.pyslvs)
+
 ## b-2.匯出尺寸![](../assets/擷取_2018_06_10_17_32_25_461.png)
+
+* ## [.slvs](https://github.com/s40523145/cd2018/blob/gh-pages/w12/triple_lifter.slvs)
 
 ## b-3.onshape進行零件繪製主裝
 
 ![](../assets/擷取_2018_06_10_17_36_32_796.png)![](../assets/擷取_2018_06_10_17_36_44_430.png)
 
+* ## [onshape 1.0](https://cad.onshape.com/documents/bba97f25f8c53addd3b77797/w/54d892adb3b7c002effc743e/e/7105e5aededcd84707196f5e)
+
 ## b-4.v-rep進行機構模擬
 
 ## ![](../assets/擷取_2018_06_10_18_02_09_47.jpg)
+
+* ## [.stl](https://github.com/s40523145/cd2018/blob/gh-pages/w11/triple_lifter.stl)
+* ## [.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/w11/triple_lifter.ttt)
 
 ## b-5.onshape進行機構避障/勺子設計/擋球機構設計
 
 ## ![](../assets/擷取_2018_06_10_17_45_45_472.png)![](../assets/擷取_2018_06_10_17_45_59_749.png)
 
+* ## [onshape 2.0](https://cad.onshape.com/documents/4ab06e54b3dd987ae870f231/w/78b35deff7c8028fc79d5add/e/45384e89af2c7f62a2982102)
+
 ## b6.v-rep進行機構模擬
 
 ## ![](../assets/擷取_2018_06_10_17_44_39_688.png)
+
+* ## [.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/w15/auto%20ball%20links.ttt)
 
 ## b-7.除bug
 
@@ -63,6 +76,8 @@
 ## b-8.加入擋球機構模擬/感測器模擬
 
 ![](../assets/擷取_2018_06_10_17_41_20_244.png)
+
+* ## [.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/w15/auto%20ball%20links.ttt)
 
 ## b-9.自動控制
 
@@ -106,8 +121,8 @@
 
 * ## [.pyslvs](https://github.com/s40523145/cd2018/blob/gh-pages/w12/triple_lifter.pyslvs)
 * ## [.slvs](https://github.com/s40523145/cd2018/blob/gh-pages/w12/triple_lifter.slvs)
-* ## [.STL](https://github.com/s40523145/cd2018/blob/gh-pages/w15/auto ball links.stl)
-* ## [.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/w15/auto ball links.ttt)
+* ## [.STL](https://github.com/s40523145/cd2018/blob/gh-pages/w15/auto%20ball%20links.stl)
+* ## [.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/w15/auto%20ball%20links.ttt)
 * ## [onshape 1.0](https://cad.onshape.com/documents/bba97f25f8c53addd3b77797/w/54d892adb3b7c002effc743e/e/7105e5aededcd84707196f5e)
 * ## [onshape 2.0](https://cad.onshape.com/documents/4ab06e54b3dd987ae870f231/w/78b35deff7c8028fc79d5add/e/45384e89af2c7f62a2982102)
 

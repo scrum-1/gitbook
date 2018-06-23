@@ -16,22 +16,13 @@
 
 * ###### 先用老師推薦的[Pyslvs](https://github.com/KmolYuan/python-solvespace)程式進行雙六連桿的運動路徑分析，優化路徑並使運球動作順暢。
 * ###### ![](./../picture/messageImage_1525709347996.jpg)
+* #### [Pyslvs 機構設計模擬檔](https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20\(Double%20six%20bar%20linkage\)/cd\_w11\_ag7.pyslvs)
 * ###### 確定好路徑後再進行尺寸的微調和設計桿件的配置。
 * ###### ![](./../picture/messageImage_1525709371685.jpg)
+* #### [slvs 機構設計模擬檔](https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20(Double%20six%20bar%20linkage)/cd_w11_ag7.slvs.slvs)
 * ###### 再依照所確定的尺寸及配置繪製出立體圖並且裝配，完成後轉檔為STL檔。
 * ###### ![](./../picture/messageImage_1525709421649.jpg)
+* #### [連桿提球機構零件組立檔](https://cad.onshape.com/documents/b657b212ec2c3ff3d36db30f/w/d2857f33d4220a0bd0dec218/e/3b65089f051f69eb8428a865)
 * ###### 將零件檔輸入至V-rep中連結機構間的相互關係，其中最為困難的就是建立Dummy的連結關係。
 * ![](./../picture/messageImage_1525626084794.jpg)
-
-#### Pyslvs 機構設計模擬檔：
-
-[https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20\(Double%20six%20bar%20linkage\)/cd\_w11\_ag7.pyslvs](https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20\(Double%20six%20bar%20linkage\)/cd\_w11\_ag7.pyslvs)
-
-#### 連桿提球機構零件組立檔：
-
-[https://cad.onshape.com/documents/b657b212ec2c3ff3d36db30f/w/d2857f33d4220a0bd0dec218/e/3b65089f051f69eb8428a865](https://cad.onshape.com/documents/b657b212ec2c3ff3d36db30f/w/d2857f33d4220a0bd0dec218/e/3b65089f051f69eb8428a865)
-
-#### V-rep提球動作模擬檔：
-
-[https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20\(Double%20six%20bar%20linkage\)/cd\_w11\_ag7.ttt](https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20\(Double%20six%20bar%20linkage\)/cd\_w11\_ag7.ttt)
-
+* #### [V-rep提球動作模擬檔](https://github.com/s40523125/cd2018/blob/master/Folder/Ball%20lifter%20\(Double%20six%20bar%20linkage\)/cd\_w11\_ag7.ttt)
