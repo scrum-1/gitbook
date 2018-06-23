@@ -15,6 +15,7 @@
     * [ag1](ag1/readme.md)
         * [v-rep](ag1/v-rep/readme.md)
         * [onshape](ag1/onshape/readme.md)
+        * [第三周到第四周](ag1/week3~week4/readme.md)
         * [第十周](ag1/第十周/readme.md)
         * [第十一周](ag1/第十一周/readme.md)
         * [40523115鋼球運動系統](ag1/40523115/readme.md)
