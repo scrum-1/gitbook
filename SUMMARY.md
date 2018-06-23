@@ -173,7 +173,7 @@
       * [W7](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/w7.md)
       * [w10](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/w10.md)
       * [w11](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/w11.md)
-      * [w14](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/w14.md)
+      * [w12](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/w14.md)
     * [ag14](ag14/readme.md)
       * [v-rep](ag14/v-rep/readme.md)
 * [二乙](2b_readme.md)
