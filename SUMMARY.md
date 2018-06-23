@@ -17,6 +17,7 @@
         * [onshape](ag1/onshape/readme.md)
         * [week2](ag1/week2/readme.md)
         * [week3~week4](ag1/week3-week4/readme.md)
+        * [week7](ag1/week7/readme.md)
         * [week10](ag1/第十周/readme.md)
         * [week11](ag1/第十一周/readme.md)
         * [40523115鋼球運動系統](ag1/40523115/readme.md)
