@@ -12,11 +12,11 @@
 
 \(如須組成齒輪系Module模數需相同\)
 
-![](/assets/chrome_2018-05-14_20-35-27.png)
+![](../assets/8b80d0a2-15bb-4f9e-b9e8-8e34935d34c4.png)
 
 規格：
 
-![](/assets/2.jpg)
+![](../assets/8d89eab7-04b6-4415-a319-38ecc88bea56.jpg)
 
 #### [行星齒輪系.stl](https://github.com/s40523107/cd2018/blob/gh-pages/廖心荷/weeK12/Planet gear.stl)
 
