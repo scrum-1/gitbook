@@ -14,7 +14,7 @@
 * [二甲](2a_readme.md)
     * [ag1](ag1/readme.md)
         * [v-rep](ag1/v-rep/readme.md)
-    * [ag2](ag2/readme.md) 
+    * [ag2](ag2/readme.md)
         * [w10](ag2/report/w10.md)
         * [w11](ag2/report/w11.md)
         * [w12](ag2/report/jian-su-chi-lun-zu.md)
@@ -109,6 +109,12 @@
         * [雙六連趕系統模擬影片](https://www.youtube.com/watch?v=XMwdzJv7eQs)
     * [ag9](ag9/readme.md)
         * [Gitbook](https://s40523119.gitbook.io/cd2018/)
+        * FINAL REPORT
+            * [Two-Stage-Six-bar-Linkage](ag9/COURSE-MISSION/Two-Stage-Six-bar-Linkage.md)
+            * [Dummy](ag9/V-REP/Dummy.md)
+            * [Dummy-functions](ag9/V-REP/Dummy-functions.md)
+            * [Spur Gear Calculator](https://s40523119.github.io/cd2018/2018/06/11/gear_generator/)
+            * [Gear-References](https://s40523119.github.io/cd2018/2018/06/11/Gear-References/)
         * MARBLE MACHINE
             * [Model](ag9/MARBLE-MACHINE/Model.md)
             * [Simulation](ag9/MARBLE-MACHINE/Simulation.md)
@@ -198,7 +204,7 @@
          * [40523240三段式提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523240san-duan-shi-ti-qiu-ji-gou.html)
          * [40523201三段式提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523201san-duan-shi-ti-qiu-ji-gou.html)
          * [40523203三段式提球機構](https://s40523203.gitbooks.io/2b-group2/content/40523203san-duan-shi-ti-qiu-ji-gou.html)
-         
+
         * [W12](https://s40523203.gitbooks.io/2b-group2/content/week12.html)
           * [組員漸開線齒輪](https://s40523203.gitbooks.io/2b-group2/content/week12/fen-zu-ren-wu.html)
      * [bg3](bg3/readme.md)
@@ -340,7 +346,7 @@
        * [week11](bg10/week11.md)
        * [week12-14](bg10/week12-14.md)
        * [week15 class notes](bg10/week15%20class%20notes.md)
-             
+
     * [bg11](bg11/readme.md)
        * [week1](bg11/W1/W1.md)
        * [week2](bg11/W2/W2.md)
@@ -358,7 +364,7 @@
        * [week11](bg11/W11/W11.md)
        * [week12](bg11/W12/W12.md)
        * [week14](bg11/W14/W14.md)
-       
+
     * [bg12](bg12/readme.md)
        * [week2](bg12/week2.md)
        * [week4](bg12/week4.md)
@@ -370,8 +376,8 @@
        * [week13](bg12/week13.md)  
        * [week14](bg12/week14.md)
        * [week15](bg12/week15.md)
-       * [week16](bg12/week16.md) 
-       
+       * [week16](bg12/week16.md)
+
      * [bg13](bg13/readme.md)
        * [Introduction](https://s40523237.gitbooks.io/2018cdb-no-13/content/)
        * [Summary](https://s40523237.gitbooks.io/2018cdb-no-13/content/ke-cheng-jin-du.html)
@@ -388,7 +394,7 @@
        * [week12](https://s40523237.gitbooks.io/2018cdb-no-13/content/week12.html)
        * [week15](https://s40523237.gitbooks.io/2018cdb-no-13/content/week15.html)
        * [week16](https://s40523237.gitbooks.io/2018cdb-no-13/content/week16.html)
-         
+
     * [bg14](bg14/readme.md)
       * [w1](https://405232491.gitbooks.io/cd_2018_team14/content/week1.html)
        * [w2](https://405232491.gitbooks.io/cd_2018_team14/content/week2.html)
@@ -408,4 +414,3 @@
        * [w14](https://405232491.gitbooks.io/cd_2018_team14/content/week14.html)
        * [w15](https://405232491.gitbooks.io/cd_2018_team14/content/week15.html)
        * [w16](https://405232491.gitbooks.io/cd_2018_team14/content/week16.html)
-       
