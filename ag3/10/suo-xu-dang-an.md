@@ -1,4 +1,4 @@
-### ※展示 cd\_w11\_ag1.slvs 零件組立檔、cd\_w11\_ag1.pyslvs 機構模擬檔與 cd\_w11\_ag1.ttt 提球模擬檔 {#※在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
+### ※展示 cd\_w11\_ag1.slvs 零件組立檔、cd\_w11\_ag1.pyslvs 機構模擬檔與 cd\_w11\_ag1.ttt 提球模擬檔
 
 **slvs：**[**https://github.com/s40523123/cd2018/tree/gh-pages/slvs**](https://github.com/s40523123/cd2018/tree/gh-pages/slvs)​
 
