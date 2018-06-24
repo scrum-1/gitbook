@@ -35,6 +35,8 @@
         * [Week4-6](ag3/4-6)
         * [Week7-9](ag3/7-9)
         * [Week10](ag3/10)
+        * [Week11-12](ag3/11-12-TripleLifter)
+        * [Week13](ag3/13-DoubleLifter)
     * [ag4](ag4/readme.md)
         * [v-rep](ag4/v-rep/readme.md)
         * [Week notes](ag4/week_notes/readme.md)
