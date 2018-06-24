@@ -1,6 +1,6 @@
 # 三段式六連桿機構模擬練習
 
-![](https://github.com/scrum-1/gitbook/tree/master/ag3/assets/27.png)此作業在繪製出一個三段式六連桿機構後，進入V-rep練習轉軸及Dummy的用法。
+![](https://s40523123.gitbooks.io/ag3/content/assets/27.png)此作業在繪製出一個三段式六連桿機構後，進入V-rep練習轉軸及Dummy的用法。
 
 模擬影片：​[https://www.youtube.com/watch?v=h8XLkBz27NU](https://www.youtube.com/watch?v=h8XLkBz27NU)​
 
@@ -12,7 +12,7 @@ ttt檔案：[https://github.com/s40523123/cd2018/blob/gh-pages/ttt/TripleLifter\
 
 將V-rep開啟，匯入連桿，並將其分解，獲得許多零件檔。
 
-![](/assets/12.png)![](/assets/13.png)
+![](./../assets/12.png)![](/assets/13.png)
 
 接著開始對每個轉軸加工，點選空白處右鍵來新增模擬轉軸。
 
