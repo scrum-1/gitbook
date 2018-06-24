@@ -287,6 +287,7 @@
       * [w12](https://s40523226.gitbooks.io/ball-movement-system/content/w11.html)
       * [w13-14](https://s40523226.gitbooks.io/ball-movement-system/content/w13-14.html)
       * [w15](bg6/w15.md)
+      * [期末報告總整理](bg6/期末報告總整理.md)
     * [bg7](https://github.com/scrum-1/gitbook/blob/master/bg7/readme.md)
       * [w4](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week4.html)
       * [w5](https://s40523210.gitbooks.io/g7_gitbook/content/ti-qiu-ji-gou/week5.html)
