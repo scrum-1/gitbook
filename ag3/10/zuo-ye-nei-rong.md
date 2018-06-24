@@ -1,4 +1,4 @@
-# 一、下載 Pyslvs，開啟套件中之 ball lifter 機構 {#yi-xia-pyslvs-tao-jian-zhong-zhi-ball-lifter}
+# 一、下載 Pyslvs，開啟套件中之 ball lifter 機構
 
 將 ball lifter 套件開啟：
 
@@ -8,8 +8,7 @@
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LCwJ8pTIK-At32L1Yte%2F-LCxS4q6cbTHrYQRrj7h%2F-LCxSTqo5-jQt3lT6nAb%2Fimage.png?alt=media&token=01c9b874-ddd1-4c23-a817-f255458e70c4)
 
-# 二、3D立體部分繪製，以及進入模擬階段 {#er-3-d-li-bu-fen-yi-ji-ru-mo-duan}
-
+# 二、3D立體部分繪製，以及進入模擬階段
 將其畫成實體連桿：
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LCwJ8pTIK-At32L1Yte%2F-LCxS4q6cbTHrYQRrj7h%2F-LCxSViNaMuDETgdoA1g%2Fimage.png?alt=media&token=492b604a-85d1-4055-bd70-a2d04a80067b)
