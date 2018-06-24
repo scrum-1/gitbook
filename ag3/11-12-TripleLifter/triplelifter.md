@@ -1,6 +1,6 @@
 # 三段式六連桿機構模擬練習
 
-![](./../../assets/27.png)此作業在繪製出一個三段式六連桿機構後，進入V-rep練習轉軸及Dummy的用法。
+![](https://github.com/scrum-1/gitbook/tree/master/ag3/assets/27.png)此作業在繪製出一個三段式六連桿機構後，進入V-rep練習轉軸及Dummy的用法。
 
 模擬影片：​[https://www.youtube.com/watch?v=h8XLkBz27NU](https://www.youtube.com/watch?v=h8XLkBz27NU)​
 
