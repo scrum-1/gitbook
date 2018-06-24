@@ -167,6 +167,7 @@
       * [W10](ag11/W10/readme.md)
       * [W11](ag11/w11test/readme.md)
       * [W14](ag11/week14/readme.md)
+      * [期末報告](https://github.com/s40523128/cd2018/tree/gh-pages/Final)
     * [ag12](ag12/readme.md)
       * [case1](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/case1.md)
       * [case2](https://github.com/scrum-1/gitbook/blob/master/ag12/last%20thing%20in%20gitbook/case2.md)
