@@ -1,6 +1,6 @@
 # 三段式六連桿機構模擬練習
 
-![](https://s40523123.gitbooks.io/ag3/content/assets/27.png)此作業在繪製出一個三段式六連桿機構後，進入V-rep練習轉軸及Dummy的用法。
+![](./../assets/27.png)此作業在繪製出一個三段式六連桿機構後，進入V-rep練習轉軸及Dummy的用法。
 
 模擬影片：​[https://www.youtube.com/watch?v=h8XLkBz27NU](https://www.youtube.com/watch?v=h8XLkBz27NU)​
 
@@ -12,11 +12,11 @@ ttt檔案：[https://github.com/s40523123/cd2018/blob/gh-pages/ttt/TripleLifter\
 
 將V-rep開啟，匯入連桿，並將其分解，獲得許多零件檔。
 
-![](./../assets/12.png)![](/assets/13.png)
+![](./../assets/12.png)![](./../assets/13.png)
 
 接著開始對每個轉軸加工，點選空白處右鍵來新增模擬轉軸。
 
-![](/assets/14.png)![](/assets/15.png)
+![](./../assets/14.png)![](./../assets/15.png)
 
 對每個轉軸的處理程序大致為：
 
@@ -30,17 +30,17 @@ ttt檔案：[https://github.com/s40523123/cd2018/blob/gh-pages/ttt/TripleLifter\
 
 點一下需移動的轉軸，接著按住Shift不放，再點要移動至的位置\(銷\)，則轉軸會呈現黃色立方體框框，再按下互相定位即可。
 
-![](/assets/16.png)
+![](./../assets/16.png)
 
-![](/assets/17.png)
+![](./../assets/17.png)
 
 定位好後視情況再將角度也進行互相配合，如下圖。
 
-![](/assets/18.png)
+![](./../assets/18.png)
 
 接著依照個人要求，也可以將轉軸的直徑及長度進行更改，就這樣把所有轉軸都定位。
 
-![](/assets/28.png)
+![](./../assets/28.png)
 
 ---
 
@@ -58,11 +58,11 @@ ttt檔案：[https://github.com/s40523123/cd2018/blob/gh-pages/ttt/TripleLifter\
 
 圖片表達若不夠清楚，可以直接下載ttt檔案來仔細觀看\(連結在最上方\)。
 
-![](/assets/21.png)而在上圖第5個桿件之後，就必須利用Dummy來完成與其他從底座接上來的桿的連接，同樣必須由操作者觀察，將兩個Dummy連接正確，模擬才會成功。
+![](./../assets/21.png)而在上圖第5個桿件之後，就必須利用Dummy來完成與其他從底座接上來的桿的連接，同樣必須由操作者觀察，將兩個Dummy連接正確，模擬才會成功。
 
 右鍵空白處，與轉軸相同，即可叫出Dummy出來，注意一組連接就需要兩個Dummy。
 
-![](/assets/22.png)![](/assets/23.png)
+![](./../assets/22.png)![](./../assets/23.png)
 
 而在模擬中必定會有不只一組Dummy的連接，操作者須仔細觀察想要達成的旋轉模擬目標，來進行正確的Dummy連接。
 
