@@ -125,7 +125,6 @@
                 * [Dummy-functions](ag9/V-REP/Dummy-functions.md)
             * [Spur Gear Calculator](https://s40523119.github.io/cd2018/2018/06/11/gear_generator/)
             * [Gear-References](https://s40523119.github.io/cd2018/2018/06/11/Gear-References/)
-            * [總結](ag9/final.md)
         * MARBLE MACHINE
             * [Model](ag9/MARBLE-MACHINE/Model.md)
             * [Simulation](ag9/MARBLE-MACHINE/Simulation.md)
