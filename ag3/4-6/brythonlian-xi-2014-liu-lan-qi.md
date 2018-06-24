@@ -10,7 +10,7 @@
 
 讓我們開始實際操作：
 
-## 步驟一 {#一、首先在加入套件及有關Brython的部分前，這是我們Python分組的程式-第二點開始簡寫成-content-：}
+## 步驟一 
 
 首先在加入套件及有關Brython的部分前，這是我們Python分組的程式\(第二點開始簡寫成\#content\)：
 
@@ -45,7 +45,7 @@ for g in range(no_list(t)):#range = 14
 
 完成第一步。
 
-## 步驟二 {#二-1-、為了在編輯中寫入函數brython-，需要建立-lt-body-gt-，程式碼寫法為：}
+## 步驟二 
 
 為了在編輯中寫入函數`brython()`，需要建立`<body>`，程式碼寫法為：
 
@@ -55,7 +55,7 @@ for g in range(no_list(t)):#range = 14
 </body>
 ```
 
-### 步驟二-\(2\) {#bu-er-2}
+### 步驟二-\(2\) 
 
 接著，還需要利用`<div>`[區塊標籤](http://www.wibibi.com/info.php?tid=112)的功能，讓我們寫的Python程式內容包起來：
 
@@ -67,7 +67,7 @@ for g in range(no_list(t)):#range = 14
 </body>
 ```
 
-### 步驟二-\(3\) {#bu-er-3}
+### 步驟二-\(3\) 
 
 而文章一開始說明想利用Brython的第三點，必須在`<script type=”text/python”>`中寫入Python代碼或將其連接，所以我們再加入一層`<script>`：
 
@@ -83,7 +83,7 @@ for g in range(no_list(t)):#range = 14
 
 完成第二步，大致上的Brython載入使用都已經妥當，並繼續進行剩下步驟。
 
-## 步驟三 {#三-1-、接著我們要賦予它兩個按鈕，分別是執行程式及清除輸出內容。想要在網頁中生成按鈕，參照Brython-Documentatoin-Events，內容介紹使用按鈕的方法：}
+## 步驟三 
 
 接著我們要賦予它兩個按鈕，分別是執行程式及清除輸出內容。想要在網頁中生成按鈕，參照[Brython\_Documentatoin\_Events](https://www.brython.info/static_doc/en/events.html)，內容介紹使用按鈕的方法：
 
@@ -95,7 +95,7 @@ def show(ev):
 
 在給予一個按鈕功能後，需寫入`<button id=”test”>test</button>`將它生成。
 
-### 步驟三-\(2\) {#bu-san-2}
+### 步驟三-\(2\) 
 
 成功做出按鈕，試著放入我們要執行的程式中，直接用其將\#content給上下包住\(按鈕取名為but及but2\)：
 
@@ -129,7 +129,7 @@ def show(ev):
 
 第三步按鈕的設置即完成。
 
-## 步驟四 {#四、實際看向近端瀏覽器，我們發現按下按鈕後還是無法執行，這時的問題參考Brython-documentation文章，內容說明讀取檔案內容時會因為讀取時間而無法正常輸出，其解為利用函數-lt-open-gt-將時間設置忽略-給予一個假-fake-的時間-，使用方法為：}
+## 步驟四 
 
 實際看向近端瀏覽器，我們發現按下按鈕後還是無法執行，這時的問題參考[Brython documentation](https://www.brython.info/static_doc/en/cookbook/read_file.html)文章，內容說明讀取檔案內容時會因為讀取時間而無法正常輸出，其解為利用函數`<open()>`將時間設置忽略\(給予一個假\(fake\)的時間\)，使用方法為：
 
@@ -150,7 +150,7 @@ import time
 from browser import document
 ```
 
-## 步驟五 {#五、最後整理好經過加工的分組程式碼，就可以進行執行的測試，以下為最後的程式：}
+## 步驟五
 
 最後整理好經過加工的分組程式碼，就可以進行執行的測試，以下為最後的程式：
 
