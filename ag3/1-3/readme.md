@@ -1,8 +1,8 @@
-# 一、分組 Gitbook 連結 {#yi-fen-gitbook}
+# 一、分組 Gitbook 連結
 
 請各組組員將個人在上學期鋼球循環運動中所完成的內容，整理到各組的 gitbook 線上報告中，並將各組的 gitbook 連結，提供在本 issue 回應中。
 
-# 二、利用 PyQt5 視窗程式監控 V-rep 模擬系統 {#er-li-yong-pyqt5-chuang-cheng-shi-kong-vrep-mo-xi}
+# 二、利用 PyQt5 視窗程式監控 V-rep 模擬系統
 
 **概念**
 
