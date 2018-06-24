@@ -1,4 +1,4 @@
-# 一、兩段式六連桿提球機構設計與模擬 {#一、w10-兩段式六連桿提球機構設計與模擬}
+# 一、兩段式六連桿提球機構設計與模擬
 
 * 下載 Pyslvs:[http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64\_cdw10.7z](http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z)。
 
@@ -10,11 +10,11 @@
 
 以甲班第一組為例，W11 上課前必須繳交 cd\_w11\_ag1.slvs、cd\_w11\_ag1.pyslvs、cd\_w11\_ag1.ttt 與 Youtube 上的模擬影片。
 
-# 二、延伸加分題 {#er-yan-shen-jia-fen}
+# 二、延伸加分題
 
 能否利用 Pyslvs，在此一兩組六連桿機構，再疊加一組六連桿機構，成為三段式提球機構設計？
 
-# ※組員名單 {#ming}
+# ※組員名單
 
 40523102
 
