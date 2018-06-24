@@ -6,7 +6,7 @@
 
 * 輸入title以及text
 
-## step 0. creating the folders {#step-0-creating-the-folders}
+## step 0. creating the folders 
 
 ```
 /flaskr
@@ -21,7 +21,7 @@
 
 這裡我們使用的是PYTHON
 
-## step 1. database schema {#step-1-database-schema}
+## step 1. database schema
 
 ```
 drop table if exists entries;
@@ -40,7 +40,7 @@ id為會自動遞增的整數，也是主鍵
 
 title跟text為一串不為空的值
 
-## step 2. application setup code {#step-2-application-setup-code}
+## step 2. application setup code
 
 在有了數據庫模式之後，我們必須建立應用模組：flaskr.py
 
@@ -90,7 +90,7 @@ def connect_db():
     return rv
 ```
 
-## step 3. installing flaskr as a package {#step-3-installing-flaskr-as-a-package}
+## step 3. installing flaskr as a package
 
 安裝一個flaskr組件
 
@@ -131,7 +131,7 @@ export FLASK_DEBUG=true
 flask run
 ```
 
-## step 4.database connections {#step-4-database-connections}
+## step 4.database connections
 
 建立一個數據庫的連接
 
@@ -150,7 +150,7 @@ def close_db(error):
         g.sqlite_db.close()
 ```
 
-## step 5.creating the database {#step-5-creating-the-database}
+## step 5.creating the database
 
 flasKr是一個由數據庫系統驅動的應用程式
 
@@ -173,7 +173,7 @@ flask initdb
 Initialized the database.
 ```
 
-## step 6.the view functions {#step-6-the-view-functions}
+## step 6.the view functions
 
 建立完數據庫並確定可以使用後，需要一些視圖功能
 
@@ -236,7 +236,7 @@ def logout():
     return redirect(url_for('show_entries'))
 ```
 
-## step 7.the templates {#step-7-the-templates}
+## step 7.the templates
 
 如果我們使成始開始啟動，可能會讓flask找不到模板
 
@@ -312,7 +312,7 @@ login.html
 {% endblock %}
 ```
 
-## The Last {#the-last}
+## The Last
 
 做完以上步驟就可以在近端完成我們的網頁，再來配合下一篇章所講的內容將近端完成的網頁推回遠端，
 
