@@ -19,9 +19,11 @@
 
 首先運用學長開發的Pyslvs和老師給的六連趕範例，去拉尺寸，因為Pyslvs是一個可以任意更改長度的工具，然後直接模擬，所 以我們可以很輕鬆的輸出我們要的兩段式提球機構，這邊要注意的是球要從第一段運送到第二段之間的距離，這也是我第一個遇到的問題，太小會撞到太大球會掉出來，後來我的解決辦法是用拋的，有效的避開連感之間的碰撞
 
-![](../assets/pyslvs 1 .png)
+![](https://github.com/s40523145/gitbook/blob/master/ag5/assets/pyslvs%201%20.png)
 
 二.輸出成slvs檔
+
+[模擬2.0.slvs](https://github.com/s40523146/cd2018/blob/gh-pages/w17/triple%20links.stl)
 
 輸出成slvs檔候用solvespace打開得到各個連桿的相對位置和尺寸
 
@@ -31,9 +33,9 @@
 
 ![](../assets/onshape.png)
 
-鋼珠預設直徑為8.5mm所以接球桿直徑設為9mm![](https://github.com/scrum-1/gitbook/blob/master/ag5/assets/onsh%20ape.png)
+鋼珠預設直徑為8.5mm所以接球桿直徑設為9mm![](https://github.com/s40523145/gitbook/blob/master/ag5/assets/onsh%20ape.png)
 
-第二階段的平台也是![](https://github.com/scrum-1/gitbook/blob/master/ag5/assets/onshape%20.png)
+第二階段的平台也是![](https://github.com/s40523145/gitbook/blob/master/ag5/assets/onshape%20.png)
 
 四.組裝所有零件
 
@@ -75,7 +77,11 @@ joint
 
 七.最後模擬
 
-#### 球的實際模擬尺寸為8.3mm 重量1.5kg![](/assets/球.png)[最後模擬影片](https://www.youtube.com/watch?v=j1VEKvkr0Qs&feature=youtu.be)
+#### 球的實際模擬尺寸為8.3mm 重量1.5kg![](../assets/球.png)[最後模擬影片](https://www.youtube.com/watch?v=j1VEKvkr0Qs&feature=youtu.be)
+
+#### [模擬檔2.0.ttt](https://github.com/s40523146/cd2018/blob/gh-pages/w17/triple%20links%202.0.ttt)
+
+#### [模擬檔3.0.ttt](https://github.com/s40523146/cd2018/blob/gh-pages/w17/double%20linker%203.0.ttt)
 
 ## 遇到問題
 
