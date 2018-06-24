@@ -1,3 +1,38 @@
+# 期末報告
+## 作品名稱:鋼球循環系統
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 YouTube 模擬影片 : https://www.youtube.com/watch?v=xKhb5qzdpbc&feature=youtu.be
 
 YouTube 模擬影片(0611更改) : https://www.youtube.com/watch?v=70redLIBo4g&t=28s ，此次更改修正了一些干涉，並改善系統流暢度，增加循環的成功率。
