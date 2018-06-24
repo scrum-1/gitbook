@@ -14,7 +14,7 @@
 
 ## 組立 :
 
-利用便利的雲端繪圖 Onshape 製作立體零件與組立
+透過輸出的CAD檔，依尺寸繪製立體零件與組立
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAgU-7dFCj3b3oIJIST%2F-LD4fj7jNXXe3mNlU6ad%2F-LD4n0Y7w5ROHKuZ6DBf%2Fqqq.gif?alt=media&token=1ddd1094-9794-49ff-9a98-b3261c8b88ae)
 
@@ -39,3 +39,15 @@
 4.在V-rep模擬中，由於零件可能過於複雜，若將實體加入碰撞，則軟體較難計算，導致模擬緩慢
 
 或發生錯誤，對於精簡化的部分還需要更加了解。
+
+Files:
+
+​[CAD](https://github.com/s40523120/cd2018/blob/master/simulation/cd_w11_ag9.slvs) (Type for Solvespace)
+
+​[Pyslvs​](https://github.com/s40523120/cd2018/blob/master/simulation/Ball_lifter_ag9.pyslvs)
+
+​[V-rep​](https://github.com/s40523120/cd2018/blob/master/simulation/linkforvrep_ag9.ttt)
+
+​[Assembly](https://github.com/s40523120/cd2018/blob/master/simulation/six_link_ag9.stl)
+
+​[Assembly for Onshape](https://cad.onshape.com/documents/95fad782dbee89083d2c623d/w/9341a39e3ced12a442199193/e/b14ea431517f58f62c9286b4)
