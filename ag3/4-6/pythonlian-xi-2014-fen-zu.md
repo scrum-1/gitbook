@@ -1,6 +1,6 @@
 ※第一週在進行分組並實際換好座位後，我們將座位填上線上表格[Ethercalc](https://ethercalc.org/)中，並擷取後利用Python進行分組練習，規則為一組三人，共會分成14組。
 
-# 1.分組排列程式展示 {#1-fen-pai-lie-cheng-shi-zhan-shi}
+# 1.分組排列程式展示
 
 ```py
 with open("2a raw.txt") as fh:
@@ -23,7 +23,7 @@ for g in range(no_list(t)):#range = 14
     print("第" + str(g+1) + "組:" + str(t[g]))
 ```
 
-# 2.輸出的結果 {#2-chu-de-guo}
+# 2.輸出的結果
 
 ```
 第1組:['40523115', '40523108', '40523116']
