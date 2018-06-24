@@ -31,7 +31,7 @@
 ### 齒輪細節圖:
 <a href="https://imgur.com/4myaMXn"><img src="https://i.imgur.com/4myaMXn.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/rCek7DB"><img src="https://i.imgur.com/rCek7DB.png" title="source: imgur.com" /></a>
-
+### [齒輪檔案連結](https://github.com/s40523122/cd2018_hw/tree/master/lifter/GearLifter)
 
 
 
