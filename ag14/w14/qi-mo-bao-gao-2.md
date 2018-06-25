@@ -4,11 +4,11 @@
 
 由於原本的機構在運送球的方面出現了一些問題，在框起來的紅圈中，發現運轉時，無法將鋼球向上抬起，所以我們向第二組請求幫助，借用他們的機構來做為參考，最後我們劃出軌道以及讓球能夠循環以及運動。
 
-#### ![](/assets/04556.png)**舊版ttt:**[**https://github.com/s40523134/cd2018/blob/gh-pages/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E5%93%81/%E6%A9%9F%E6%A7%8B3.ttt**](https://github.com/s40523134/cd2018/blob/gh-pages/期末作品/機構3.ttt)
+#### ![](https://github.com/scrum-1/gitbook/blob/master/ag14/assets/04556.png)**舊版ttt:**[**https://github.com/s40523134/cd2018/blob/gh-pages/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E5%93%81/%E6%A9%9F%E6%A7%8B3.ttt**](https://github.com/s40523134/cd2018/blob/gh-pages/期末作品/機構3.ttt)
 
 舊版影片連結[ https://youtu.be/3E9KHsxg3cY](https://youtu.be/3E9KHsxg3cY)
 
-#### **下圖是藉由第二組的連趕機構以及自行設計的軌道完成的作品**![](/assets/222.png)**新版ttt**:[https://github.com/s40523134/cd2018/blob/gh-pages/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E5%93%81/%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%B5%84%E6%8A%AC%E7%90%83%E6%A9%9F%E6%A7%8B-1.ttt](https://github.com/s40523134/cd2018/blob/gh-pages/期末作品/第十四組抬球機構-1.ttt)
+#### **下圖是藉由第二組的連趕機構以及自行設計的軌道完成的作品**![](https://github.com/scrum-1/gitbook/blob/master/ag14/assets/222.png)**新版ttt**:[https://github.com/s40523134/cd2018/blob/gh-pages/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E5%93%81/%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%B5%84%E6%8A%AC%E7%90%83%E6%A9%9F%E6%A7%8B-1.ttt](https://github.com/s40523134/cd2018/blob/gh-pages/期末作品/第十四組抬球機構-1.ttt)
 
 #### 新版影片連結 [https://youtu.be/QpP7iK9dxUA](https://youtu.be/QpP7iK9dxUA)
 
