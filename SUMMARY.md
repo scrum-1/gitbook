@@ -346,7 +346,6 @@
         * [youtube](https://www.youtube.com/watch?v=sd3tMnSQOSg&t=1s)
         * [二段式鋼球兩週運動.](bg9/W10/cd_w11_bg9(連桿搭配軌道).ttt)      
       * [w11](bg9/week11.md)
-      * [w12正齒輪繪製](bg9/week12.md)
       * [w14](bg9/week14.md)
       * [w15](bg9/week15.md)
 
