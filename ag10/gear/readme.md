@@ -1,14 +1,8 @@
 #  gear
 
-使用onshape繪製齒輪
+* [齒嚙合靜態繪圖(25t)](https://s40523107.github.io/2016fallcp_hw/blog/chi-nie-he-jing-tai-hui-tu-25t.html)
 
-1.點選工具列 "+"
+* [兩齒嚙合靜態繪圖(50t與25t)](https://s40523107.github.io/2016fallcp_hw/blog/liang-chi-nie-he-jing-tai-hui-tu-50tyu-25t.html)
 
-2.搜尋Spur Gear(在工具列新增一個SG選項)
-
-3.點選SG呼叫齒輪
-
-4.設定齒輪相關參數(Number of teeth齒數、Module模數、Pressure circle diameter壓力角等……)+
-
-(如須組成齒輪系Module模數需相同)
+* [齒嚙合動態繪圖(50t與25t)](https://s40523107.github.io/2016fallcp_hw/blog/chi-nie-he-dong-tai-hui-tu-50tyu-25t.html)
 
