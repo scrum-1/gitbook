@@ -21,7 +21,7 @@
 ### 機構部份我們重新設計抬球、軌道、連接處部分，因為一開始的設計並沒有考慮太多因素，導致在模擬時發生很多預期外的結果，這部份我們花很多時間來調整接球與軌道的配合，最後我們把原本會發生碰撞干涉的部分都一一解決，並且配合v-rep的模擬運算來完成最終版的三段式抬球機構
 <a href="https://imgur.com/X7OBAqD"><img src="https://i.imgur.com/X7OBAqD.png" title="source: imgur.com" /></a>
 ### (三)運送車:
-### 運送車這部分牽扯到比較多程式方面的問題，因為我們在Lua這方面技術比較不純熟，所以我們搬運車並沒加入感測器配置設計，而是直接利用軌道限制軌跡並且搭配遙控方式來實現搬運車運作過程初步模擬
+### 運送車這部分牽扯到比較多程式方面的問題，因為我們在Lua這方面技術比較不純熟，所以我們搬運車並沒加入感測器配置設計，而是直接利用軌道限制軌跡並且搭配鍵盤遙控方式來實現搬運車運作過程初步模擬
 <a href="https://imgur.com/VPCsDo3"><img src="https://i.imgur.com/VPCsDo3.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/vGDDiT2"><img src="https://i.imgur.com/vGDDiT2.png" title="source: imgur.com" /></a>
 ### (四)齒輪送球機構:
