@@ -189,6 +189,7 @@
       * [w10](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/w10.md)
       * [w11](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/w11.md)
       * [w12](https://github.com/scrum-1/gitbook/blob/master/ag12/weekly%20note/w14.md)
+      * [期末專案機構](https://github.com/scrum-1/gitbook/blob/master/ag12/Final%20exam%20project/Final%20report.md)
     * [ag14](ag14/readme.md)
       * [v-rep](ag14/v-rep/readme.md)
 * [二乙](2b_readme.md)
