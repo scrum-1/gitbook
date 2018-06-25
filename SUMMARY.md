@@ -345,6 +345,7 @@
         * [youtube](https://www.youtube.com/watch?v=sd3tMnSQOSg&t=1s)
         * [二段式鋼球兩週運動檔案](bg9/W10/cd_w11_bg9(連桿搭配軌道).ttt)      
       * [w11](bg9/week11.md)
+      * [w12三連桿](bg9/week12.md)
       * [w14鋼球運動+car](bg9/week14.md)
         * [youtube](https://www.youtube.com/watch?v=as-OyFf4CXU&t=1s)
         * [鋼球運動+car檔案](bg9/協同期末/cd_w14_bg9(car).ttt)            
