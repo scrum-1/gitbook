@@ -130,6 +130,7 @@
         * [Gitbook](https://s40523119.gitbook.io/cd2018/)
         * FINAL REPORT
             * [Abstract](ag9/abstract.md)
+            * [Three-Stage-Six-bar-Linkage](ag9/COURSE-MISSION/Three-Stage-Six-bar-Linkage.md)
             * [Two-Stage-Six-bar-Linkage](ag9/COURSE-MISSION/Two-Stage-Six-bar-Linkage.md)
                 * [Dummy](ag9/V-REP/Dummy.md)
                 * [Dummy-functions](ag9/V-REP/Dummy-functions.md)
