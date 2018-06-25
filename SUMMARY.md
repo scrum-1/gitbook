@@ -108,6 +108,7 @@
           * [W11-40523126](ag7/W11-40523126.md)
           * [W12](ag7/W12.md)
           * [W13](ag7/W13.md)
+          * [W16](ag7/W16.md)
     * [ag8](ag8/readme.md)
         * [w1](https://s40523118.gitbooks.io/ag8-report/content/week1.html)
         * [w4](https://s40523118.gitbooks.io/ag8-report/content/week-4/01.html)
