@@ -27,6 +27,7 @@
          * [w7](ag4/Week_notes/w7.md)
          * [w10](ag4/Week_notes/w10.md)
          * [w11](ag4/Week_notes/w11/w11.md)
+         * [w14](ag4/40523137w14/w14.md)
           * [40523117](ag4/Week_notes/w11/40523117.md)
           * [40523135](ag4/Week_notes/w11/40523135.md)
           * [40523137](ag4/Week_notes/w11/40523137.md)
