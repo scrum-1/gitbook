@@ -23,6 +23,7 @@
         * [40523115鋼球運動系統](ag1/40523115/readme.md)
         * [40523116鋼球運動系統](ag1/40523116/readme.md)
         * [期中鋼球運動系統](ag1/mechanism-of-ball-system/readme.md)
+        * [week14](ag1/week14/readme.md)
     * [ag2](ag2/readme.md)
         * [鋼球循環運動機構報告](ag2/report/gang-qiu-xun-huan-yun-dong-ji-gou-bao-544a.md)
         * [w2](ag2/report/w2.md)
