@@ -223,6 +223,7 @@
         * [4](bg1/w9/a4.md)
       * [w10](bg1/w10/w10.md)
       * [w11](bg1/w11/w11.md)
+      * [w12](bg1/w12/w12.md)      
       * [w14](bg1/w14/w14.md)
       * [w15](bg1/w15/w15.md)
 
@@ -294,6 +295,7 @@
        * [二段式鋼球兩週運動](bg5/Weeklyprogress/w10.md)
        * [三段式鋼球兩週運動](bg5/Weeklyprogress/w14.md)
        * [gear](bg5/gear/gear.md)
+       * [期末報告](bg5/Weeklyprogress/qi-mo-bao-gao.md)
 
     * [bg6](bg6/readme.md)
       * [w1](https://s40523226.gitbooks.io/ball-movement-system/content/w1.html)
@@ -403,6 +405,7 @@
        * [week11](bg11/W11/W11.md)
        * [week12](bg11/W12/W12.md)
        * [week14](bg11/W14/W14.md)
+       * [week15](bg11/W15/W15.md)
 
     * [bg12](bg12/readme.md)
        * [week2](bg12/week2.md)
