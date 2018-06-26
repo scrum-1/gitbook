@@ -4,6 +4,8 @@
 
 [課程倉儲](https://github.com/s40523141/cd2018)
 
+[40523141期末專案](https://www.youtube.com/watch?v=tFlUddDz2V0&t=467s)
+
 ## 組長:40523141蔡兵常
 * 40523111 何偉豪
 * 40523144 錢毅軒
