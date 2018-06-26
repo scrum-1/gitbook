@@ -1,6 +1,6 @@
 學習將先前做出的網頁佈屬至雲端平台—Heroku。
 
-## **步驟一** {#bu-yi}
+## **步驟一** 
 
 下載 Heroku Command Line Interface \(CLI\)，安裝完後，使用 cmd.exe 輸入以下指令。
 
@@ -20,7 +20,7 @@ heroku logi
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LCwJ8pTIK-At32L1Yte%2F-LCwymsTkLzJzF89x_iZ%2F-LCwz-eIDMBo5hg7ijzC%2Fimage.png?alt=media&token=733fc023-22ea-4fb6-b6a8-f279defcfec3)
 
-## **步驟二** {#bu-er}
+## **步驟二** 
 
 新增3個檔案 :
 
@@ -60,7 +60,7 @@ python-3.4.3
 
 可參考[Heroku python-runtimes](https://devcenter.heroku.com/articles/python-runtimes)​
 
-## **步驟三** {#bu-san}
+## **步驟三** 
 
 先創造 Heroku application \(因 Flask 進入 Heroku 會是一個應用程式\)
 
