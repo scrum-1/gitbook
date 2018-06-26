@@ -242,6 +242,11 @@
 
         * [W12](https://s40523203.gitbooks.io/2b-group2/content/week12.html)
           * [組員漸開線齒輪](https://s40523203.gitbooks.io/2b-group2/content/week12/fen-zu-ren-wu.html)
+          
+         * [W13-W14](https://s40523203.gitbooks.io/2b-group2/content/w13~w14.html)
+         * [W15](https://s40523203.gitbooks.io/2b-group2/content/w15.html)
+          
+          
      * [bg3](bg3/readme.md)
        * [w2](bg3/week-2.md)     
        * [w3](bg3/week-3.md)
