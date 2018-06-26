@@ -404,6 +404,7 @@
        * [week11](bg11/W11/W11.md)
        * [week12](bg11/W12/W12.md)
        * [week14](bg11/W14/W14.md)
+       * [week15](bg11/W15/W15.md)
 
     * [bg12](bg12/readme.md)
        * [week2](bg12/week2.md)
