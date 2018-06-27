@@ -242,6 +242,11 @@
 
         * [W12](https://s40523203.gitbooks.io/2b-group2/content/week12.html)
           * [組員漸開線齒輪](https://s40523203.gitbooks.io/2b-group2/content/week12/fen-zu-ren-wu.html)
+          
+         * [W13-W14](https://s40523203.gitbooks.io/2b-group2/content/w13~w14.html)
+         * [W15](https://s40523203.gitbooks.io/2b-group2/content/w15.html)
+          
+          
      * [bg3](bg3/readme.md)
        * [w2](bg3/week-2.md)     
        * [w3](bg3/week-3.md)
@@ -256,6 +261,7 @@
        * [w12](bg3/week-12.md)
        * [w14](bg3/week-14.md)
        * [w15](bg3/week-15.md)
+       * [期末自評](bg3/qi-mo-zi-ping.md)
     * [bg4](bg4/readme.md)
         * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
         * [40523219林韋翔](https://s40523219.gitbooks.io/cd2018_bp4/content/40523219-lin-wei-xiang.html)
