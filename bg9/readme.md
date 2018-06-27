@@ -4,7 +4,8 @@
   * 40523236 黃碩傑
   * 40523233 陳翰璋
   * 40523243 賴瑋傑
-
+  
+* [Gitbook](https://s40523243.gitbooks.io/-gitbook/content/)
 
 
 

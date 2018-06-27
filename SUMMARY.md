@@ -381,6 +381,8 @@
         * [youtube](https://www.youtube.com/watch?v=as-OyFf4CXU&t=1s)
         * [鋼球運動+car檔案](bg9/協同期末/cd_w14_bg9(car).ttt)            
       * [w15](bg9/week15.md)
+      * [期末報告影片](bg9/ge-ren-qi-mo-bao-gao-ying-pian.md)
+      * [期末自評](bg9/qi-mo-zi-ping.md)
 
 
     * [bg10](bg10/readme.md)

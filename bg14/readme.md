@@ -8,7 +8,7 @@
 
 [40523249 蔡欣容](https://github.com/40523249/40523249_2018)
 
-40523250 鄭錫謙
+[40523250 鄭錫謙](https://github.com/40523250/40523250_final)
 
 [14組gitbook](https://legacy.gitbook.com/book/405232491/cd_2018_team14/details)
 
