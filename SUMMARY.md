@@ -223,6 +223,7 @@
         * [4](bg1/w9/a4.md)
       * [w10](bg1/w10/w10.md)
       * [w11](bg1/w11/w11.md)
+      * [w12](bg1/w12/w12.md)      
       * [w14](bg1/w14/w14.md)
       * [w15](bg1/w15/w15.md)
 
@@ -241,6 +242,11 @@
 
         * [W12](https://s40523203.gitbooks.io/2b-group2/content/week12.html)
           * [組員漸開線齒輪](https://s40523203.gitbooks.io/2b-group2/content/week12/fen-zu-ren-wu.html)
+          
+         * [W13-W14](https://s40523203.gitbooks.io/2b-group2/content/w13~w14.html)
+         * [W15](https://s40523203.gitbooks.io/2b-group2/content/w15.html)
+          
+          
      * [bg3](bg3/readme.md)
        * [w2](bg3/week-2.md)     
        * [w3](bg3/week-3.md)
@@ -255,6 +261,7 @@
        * [w12](bg3/week-12.md)
        * [w14](bg3/week-14.md)
        * [w15](bg3/week-15.md)
+       * [期末自評](bg3/qi-mo-zi-ping.md)
     * [bg4](bg4/readme.md)
         * [40523204許馨予](https://s40523219.gitbooks.io/cd2018_bp4/content/chapter1.html)
         * [40523219林韋翔](https://s40523219.gitbooks.io/cd2018_bp4/content/40523219-lin-wei-xiang.html)
@@ -294,6 +301,7 @@
        * [二段式鋼球兩週運動](bg5/Weeklyprogress/w10.md)
        * [三段式鋼球兩週運動](bg5/Weeklyprogress/w14.md)
        * [gear](bg5/gear/gear.md)
+       * [期末報告](bg5/Weeklyprogress/qi-mo-bao-gao.md)
 
     * [bg6](bg6/readme.md)
       * [w1](https://s40523226.gitbooks.io/ball-movement-system/content/w1.html)
@@ -403,6 +411,7 @@
        * [week11](bg11/W11/W11.md)
        * [week12](bg11/W12/W12.md)
        * [week14](bg11/W14/W14.md)
+       * [week15](bg11/W15/W15.md)
 
     * [bg12](bg12/readme.md)
        * [week2](bg12/week2.md)
